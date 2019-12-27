@@ -862,36 +862,263 @@
 </linkTypes>
 <item ID="1565296361" Creator="surval" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T13:32:40-07:00</attribute>
+<attribute name="Created" >2019-08-08T13:32:40-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="MapScrollX" >-0.8593752686</attribute>
-<attribute name="MapScrollY" >38.86094964</attribute>
-<attribute name="Modified" >2019-08-08T13:32:40-07:00</attribute>
+<attribute name="MapScrollX" >3.059375956</attribute>
+<attribute name="MapScrollY" >40.9578253</attribute>
+<attribute name="Modified" >2019-08-08T13:32:40-08:00</attribute>
 <attribute name="Name" >Zettelkasten</attribute>
 <attribute name="SelectionCount" >1</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
+<item ID="1567454553" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-09-02T13:02:10-08:00</attribute>
+<attribute name="Height" >2.022459759</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-09-02T13:05:06-08:00</attribute>
+<attribute name="Name" >On Side Projects and Entrepreneurial ambitions</attribute>
+<attribute name="SelectionCount" >12</attribute>
+<attribute name="Width" >5.387720473</attribute>
+<attribute name="Xpos" >-10.94698925</attribute>
+<attribute name="Ypos" >54.39924037</attribute>
+<attribute name="ZKID" >14</attribute>
+<text >How to pick
+- side projects
+- entrepreneurial ideas
+
+
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5uAQAAKwAAAAEAAABmAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgSG93IHRvIHBpY2tcCi0gc2lkZSBwcm9qZWN0c1wKLSBlbnRyZXByZW5ldXJpYWwgaWRlYXNcClwKXApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAPJ1bV22AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1567454645" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-09-02T13:04:04-08:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-09-02T13:06:06-08:00</attribute>
+<attribute name="NLOrganizations" >Side Hustle School</attribute>
+<attribute name="Name" >How to pick between two entrepreneurial ideas</attribute>
+<attribute name="SelectionCount" >11</attribute>
+<attribute name="Width" >5.995225755</attribute>
+<attribute name="Xpos" >-3.890203968</attribute>
+<attribute name="Ypos" >54.48047033</attribute>
+<attribute name="ZKID" >14a</attribute>
+<text >How to pick between two ideas:
+1. Ease of startup
+2. Profit potential
+3. Motivation - at this present time
+Make a decision for right now, you can revisit later
+
+
+Source: Side Hustle School podcast, weekly recap # 12
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4PAgAAKwAAAAEAAAAHAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgSG93IHRvIHBpY2sgYmV0d2VlbiB0d28gaWRlYXM6XAoxLiBFYXNlIG9mIHN0YXJ0dXBcCjIuIFByb2ZpdCBwb3RlbnRpYWxcCjMuIE1vdGl2YXRpb24gLSBhdCB0aGlzIHByZXNlbnQgdGltZVwKTWFrZSBhIGRlY2lzaW9uIGZvciByaWdodCBub3csIHlvdSBjYW4gcmV2aXNpdCBsYXRlclwKXApcClNvdXJjZTogU2lkZSBIdXN0bGUgU2Nob29sIHBvZGNhc3QsIHdlZWtseSByZWNhcCAjIDEyXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAALnZtXbYBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1567455010" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Badge" >label red</attribute>
+<attribute name="Created" >2019-09-02T13:10:09-08:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-09-02T13:11:03-08:00</attribute>
+<attribute name="Name" >Framework for quitting</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >3.500208613</attribute>
+<attribute name="Xpos" >10.51053127</attribute>
+<attribute name="Ypos" >54.48047025</attribute>
+<attribute name="ZKID" >14c</attribute>
+<text >
+When to quit? Or keep going? How to decide?
+Winners are constantly evaluating and always asking themselves what&apos;s the best possible thing they can do is.
+Framework for quitting: ask 2 questions:
+1. Is it working?
+2. Do you still believe in it?
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4uAgAAKwAAAAEAAAAmAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgXApXaGVuIHRvIHF1aXQ/IE9yIGtlZXAgZ29pbmc/IEhvdyB0byBkZWNpZGU/XApXaW5uZXJzIGFyZSBjb25zdGFudGx5IGV2YWx1YXRpbmcgYW5kIGFsd2F5cyBhc2tpbmcgdGhlbXNlbHZlcyB3aGF0J3MgdGhlIGJlc3QgcG9zc2libGUgdGhpbmcgdGhleSBjYW4gZG8gaXMuXApGcmFtZXdvcmsgZm9yIHF1aXR0aW5nOiBhc2sgMiBxdWVzdGlvbnM6XAoxLiBJcyBpdCB3b3JraW5nP1wKMi4gRG8geW91IHN0aWxsIGJlbGlldmUgaW4gaXQ/XApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAOh3bV22AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1567455245" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Badge" >label red</attribute>
+<attribute name="Created" >2019-09-02T13:14:04-08:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-09-02T13:16:48-08:00</attribute>
+<attribute name="Name" >Qualities of a good idea</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >4.742324897</attribute>
+<attribute name="Xpos" >3.714672367</attribute>
+<attribute name="Ypos" >56.84047027</attribute>
+<attribute name="ZKID" >14b1</attribute>
+<text >Questions to ask about your idea:
+1. Is it useful?
+2. Is it helpful? 
+3. Does it solve a problem?
+4. Is it interesting?
+5. Is it valuable?
+
+
+You have to go from a good idea to an offer. Offer is something specific - it is clear what the purchaser gets in return for their money.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5KAgAAKwAAAAEAAABCAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjIgUXVlc3Rpb25zIHRvIGFzayBhYm91dCB5b3VyIGlkZWE6XAoxLiBJcyBpdCB1c2VmdWw/XAoyLiBJcyBpdCBoZWxwZnVsPyBcCjMuIERvZXMgaXQgc29sdmUgYSBwcm9ibGVtP1wKNC4gSXMgaXQgaW50ZXJlc3Rpbmc/XAo1LiBJcyBpdCB2YWx1YWJsZT9cClwKXApZb3UgaGF2ZSB0byBnbyBmcm9tIGEgZ29vZCBpZGVhIHRvIGFuIG9mZmVyLiBPZmZlciBpcyBzb21ldGhpbmcgc3BlY2lmaWMgLSBpdCBpcyBjbGVhciB3aGF0IHRoZSBwdXJjaGFzZXIgZ2V0cyBpbiByZXR1cm4gZm9yIHRoZWlyIG1vbmV5Ln0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAC6eG1dtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1567454775" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-09-02T13:06:14-08:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-09-02T13:14:56-08:00</attribute>
+<attribute name="Name" >How to come up with an idea</attribute>
+<attribute name="SelectionCount" >14</attribute>
+<attribute name="Width" >4.742324893</attribute>
+<attribute name="Xpos" >3.7205002</attribute>
+<attribute name="Ypos" >54.49615269</attribute>
+<attribute name="ZKID" >14b</attribute>
+<text >Options: 
+1. Solve an often recurring problem
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5jAQAAKwAAAAEAAABbAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgT3B0aW9uczogXAoxLiBTb2x2ZSBhbiBvZnRlbiByZWN1cnJpbmcgcHJvYmxlbVwKXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABAeG1dtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1567455469" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-09-02T13:17:48-08:00</attribute>
+<attribute name="Height" >2.022459759</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-09-02T13:19:06-08:00</attribute>
+<attribute name="Name" >The entrepreneurial mindset - what if this works?</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >5.995225755</attribute>
+<attribute name="Xpos" >-3.914083295</attribute>
+<attribute name="Ypos" >57.41638597</attribute>
+<attribute name="ZKID" >14d</attribute>
+<text >What if this does work? Then what is your vision, your plan?
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5xAQAAKwAAAAEAAABpAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgV2hhdCBpZiB0aGlzIGRvZXMgd29yaz8gVGhlbiB3aGF0IGlzIHlvdXIgdmlzaW9uLCB5b3VyIHBsYW4/XApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAEZ5bV22AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1567455597" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-09-02T13:19:56-08:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-09-02T13:20:47-08:00</attribute>
+<attribute name="Name" >What is your story?</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Width" >5.995225755</attribute>
+<attribute name="Xpos" >-3.884376214</attribute>
+<attribute name="Ypos" >60.49907896</attribute>
+<attribute name="ZKID" >14e</attribute>
+<text >What is your story? Your vision? You? 
+
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5dAQAAKwAAAAEAAABVAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgV2hhdCBpcyB5b3VyIHN0b3J5PyBZb3VyIHZpc2lvbj8gWW91PyBcClwKXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACieW1dtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1567455694" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-09-02T13:21:33-08:00</attribute>
+<attribute name="Height" >2.022459759</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-09-02T13:23:36-08:00</attribute>
+<attribute name="Name" >Customers survey</attribute>
+<attribute name="SelectionCount" >14</attribute>
+<attribute name="Width" >5.612655883</attribute>
+<attribute name="Xpos" >-3.884376171</attribute>
+<attribute name="Ypos" >62.85907897</attribute>
+<attribute name="ZKID" >14f</attribute>
+<text >Talk to your users.
+1. Watch them use it
+2. Ask them if they have recommended it to someone els? Why? Why not?
+3. Will you buy this? Why not? What would it take for you to buy it?
+4. Talk about specific features. Do they use something else? What did they use before?
+5. Any frustrations using your product?
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5sAgAAKwAAAAEAAABkAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgVGFsayB0byB5b3VyIHVzZXJzLlwKMS4gV2F0Y2ggdGhlbSB1c2UgaXRcCjIuIEFzayB0aGVtIGlmIHRoZXkgaGF2ZSByZWNvbW1lbmRlZCBpdCB0byBzb21lb25lIGVscz8gV2h5PyBXaHkgbm90P1wKMy4gV2lsbCB5b3UgYnV5IHRoaXM/IFdoeSBub3Q/IFdoYXQgd291bGQgaXQgdGFrZSBmb3IgeW91IHRvIGJ1eSBpdD9cCjQuIFRhbGsgYWJvdXQgc3BlY2lmaWMgZmVhdHVyZXMuIERvIHRoZXkgdXNlIHNvbWV0aGluZyBlbHNlPyBXaGF0IGRpZCB0aGV5IHVzZSBiZWZvcmU/XAo1LiBBbnkgZnJ1c3RyYXRpb25zIHVzaW5nIHlvdXIgcHJvZHVjdD9cClwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAA0aptXbYBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1577467758" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-12-27T09:29:17-08:00</attribute>
+<attribute name="Height" >1.6209966</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-12-27T09:31:51-08:00</attribute>
+<attribute name="NLTags" ></attribute>
+<attribute name="Name" >How to raise children</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >5.627509481</attribute>
+<attribute name="Xpos" >-3.89180301</attribute>
+<attribute name="Ypos" >65.41318092</attribute>
+<attribute name="ZKID" >15</attribute>
+<text >Different thoughts and ideas from places on what children need, on how to raise a child, on what parenting means.
+
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC66AQAAKwAAAAEAAACyAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyNTExClxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgRGlmZmVyZW50IHRob3VnaHRzIGFuZCBpZGVhcyBmcm9tIHBsYWNlcyBvbiB3aGF0IGNoaWxkcmVuIG5lZWQsIG9uIGhvdyB0byByYWlzZSBhIGNoaWxkLCBvbiB3aGF0IHBhcmVudGluZyBtZWFucy5cClwKXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAQQAZetgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1577467846" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-12-27T09:32:15-08:00</attribute>
+<attribute name="Height" >1.6209966</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-12-27T09:32:59-08:00</attribute>
+<attribute name="Name" >Trust</attribute>
+<attribute name="SelectionCount" >9</attribute>
+<attribute name="Width" >3.823696567</attribute>
+<attribute name="Xpos" >2.608678341</attribute>
+<attribute name="Ypos" >65.41318094</attribute>
+<attribute name="ZKID" >15b</attribute>
+<text >Trust in your child’s passions and abilities. But follow through on discipline
+
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6aAQAAKwAAAAEAAACSAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyNTExClxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgVHJ1c3QgaW4geW91ciBjaGlsZFwnOTJzIHBhc3Npb25zIGFuZCBhYmlsaXRpZXMuIEJ1dCBmb2xsb3cgdGhyb3VnaCBvbiBkaXNjaXBsaW5lXApcClwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAS0AGXrYBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1577467937" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-12-27T09:33:12-08:00</attribute>
+<attribute name="Height" >1.6209966</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-12-27T09:34:15-08:00</attribute>
+<attribute name="Name" >Autonomy</attribute>
+<attribute name="SelectionCount" >12</attribute>
+<attribute name="Width" >3.823696567</attribute>
+<attribute name="Xpos" >2.604855838</attribute>
+<attribute name="Ypos" >68.12343569</attribute>
+<attribute name="ZKID" >15a</attribute>
+<text >Every human needs a sense of autonomy for their well being - including children. 
+Encourage doing things by themselves, taking care of themselves. Be there to help - if asked. 
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC74AQAAKwAAAAEAAADwAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyNTExClxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgRXZlcnkgaHVtYW4gbmVlZHMgYSBzZW5zZSBvZiBhdXRvbm9teSBmb3IgdGhlaXIgd2VsbCBiZWluZyAtIGluY2x1ZGluZyBjaGlsZHJlbi4gXApFbmNvdXJhZ2UgZG9pbmcgdGhpbmdzIGJ5IHRoZW1zZWx2ZXMsIHRha2luZyBjYXJlIG9mIHRoZW1zZWx2ZXMuIEJlIHRoZXJlIHRvIGhlbHAgLSBpZiBhc2tlZC4gXApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAJdABl62AQAAAAAAAAAAAAA=</rtfd>
+</item>
 <item ID="1565299202" Creator="surval" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T14:20:01-07:00</attribute>
+<attribute name="Created" >2019-08-08T14:20:01-08:00</attribute>
 <attribute name="Height" >10.88872581</attribute>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="MapScrollX" >-4.491133729</attribute>
 <attribute name="MapScrollY" >-5.442897168</attribute>
-<attribute name="Modified" >2019-08-08T14:20:01-07:00</attribute>
+<attribute name="Modified" >2019-08-08T14:20:01-08:00</attribute>
 <attribute name="Name" >Internals</attribute>
-<attribute name="SelectionCount" >159</attribute>
+<attribute name="SelectionCount" >160</attribute>
 <attribute name="Width" >5.957112303</attribute>
 <attribute name="Xpos" >-16.95547405</attribute>
 <attribute name="Ypos" >-25.95232745</attribute>
 <item ID="1565298818" Creator="surval" proto="*zettel-template-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >barista-icons_espresso-macchiato-alternative</attribute>
-<attribute name="Created" >2019-08-08T14:13:37-07:00</attribute>
+<attribute name="Created" >2019-08-08T14:13:37-08:00</attribute>
 <attribute name="DominantLanguage" >en</attribute>
 <attribute name="Height" >1.148833619</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T21:18:24-07:00</attribute>
+<attribute name="Modified" >2019-08-08T21:18:24-08:00</attribute>
 <attribute name="Name" >*zettel-template.txt</attribute>
 <attribute name="SelectionCount" >66</attribute>
 <attribute name="Width" >6.078521729</attribute>
@@ -913,7 +1140,7 @@ Outbound Link ZKIDs: ^value(links.outbound..$ZKID)^</text>
 <item ID="1565296591" Creator="surval" >
 <attribute name="Associates" ></attribute>
 <attribute name="Color" >#dae8e0</attribute>
-<attribute name="Created" >2019-08-08T13:36:30-07:00</attribute>
+<attribute name="Created" >2019-08-08T13:36:30-08:00</attribute>
 <attribute name="DominantLanguage" >en</attribute>
 <attribute name="HTMLExportExtension" >.txt</attribute>
 <attribute name="HTMLExportTemplate" >/Internals/*zettel-template.txt</attribute>
@@ -922,10 +1149,10 @@ Outbound Link ZKIDs: ^value(links.outbound..$ZKID)^</text>
 <attribute name="IsPrototype" >true</attribute>
 <attribute name="KeyAttributes" >ZKID</attribute>
 <attribute name="MapTextSize" >88</attribute>
-<attribute name="Modified" >2019-08-08T15:15:14-07:00</attribute>
+<attribute name="Modified" >2019-08-08T15:15:14-08:00</attribute>
 <attribute name="NLTags" >plan</attribute>
 <attribute name="Name" >*zettel-prototype</attribute>
-<attribute name="SelectionCount" >95</attribute>
+<attribute name="SelectionCount" >97</attribute>
 <attribute name="Width" >6.078521729</attribute>
 <attribute name="Xpos" >-2.227676392</attribute>
 <attribute name="Ypos" >-6.834976196</attribute>
@@ -941,7 +1168,7 @@ Outbound Link ZKIDs: ^value(links.outbound..$ZKID)^</text>
 </item>
 <item ID="1565297943" Creator="surval" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T13:59:02-07:00</attribute>
+<attribute name="Created" >2019-08-08T13:59:02-08:00</attribute>
 <attribute name="HTMLExportExtension" >.txt</attribute>
 <attribute name="HTMLExportTemplate" >none</attribute>
 <attribute name="Height" >2.195281982</attribute>
@@ -949,7 +1176,7 @@ Outbound Link ZKIDs: ^value(links.outbound..$ZKID)^</text>
 <attribute name="IsPrototype" >true</attribute>
 <attribute name="IsTemplate" >true</attribute>
 <attribute name="MapTextSize" >88</attribute>
-<attribute name="Modified" >2019-08-08T13:59:02-07:00</attribute>
+<attribute name="Modified" >2019-08-08T13:59:02-08:00</attribute>
 <attribute name="Name" >*zettel-template-prototype</attribute>
 <attribute name="SelectionCount" >35</attribute>
 <attribute name="Width" >6.078521729</attribute>
@@ -959,12 +1186,12 @@ Outbound Link ZKIDs: ^value(links.outbound..$ZKID)^</text>
 <item ID="1565322790" Creator="surval" >
 <attribute name="Associates" ></attribute>
 <attribute name="Color" >blue</attribute>
-<attribute name="Created" >2019-08-08T20:53:09-07:00</attribute>
+<attribute name="Created" >2019-08-08T20:53:09-08:00</attribute>
 <attribute name="Height" >1.148833619</attribute>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="IsPrototype" >true</attribute>
 <attribute name="MapTextSize" >88</attribute>
-<attribute name="Modified" >2019-08-08T20:53:09-07:00</attribute>
+<attribute name="Modified" >2019-08-08T20:53:09-08:00</attribute>
 <attribute name="Name" >*index-prototype</attribute>
 <attribute name="SelectionCount" >16</attribute>
 <attribute name="Width" >6.078521729</attribute>
@@ -973,11 +1200,11 @@ Outbound Link ZKIDs: ^value(links.outbound..$ZKID)^</text>
 </item>
 <item ID="1565806387" Creator="surval" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-14T11:13:06-07:00</attribute>
+<attribute name="Created" >2019-08-14T11:13:06-08:00</attribute>
 <attribute name="DominantLanguage" >en</attribute>
 <attribute name="Height" >1.72171858</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-14T11:20:12-07:00</attribute>
+<attribute name="Modified" >2019-08-14T11:20:12-08:00</attribute>
 <attribute name="NLTags" >plan</attribute>
 <attribute name="Name" >File - References</attribute>
 <attribute name="SelectionCount" >19</attribute>
@@ -994,10 +1221,10 @@ Reference: http://forum.eastgate.com/t/link-between-notes-contained-in-different
 </item>
 <item ID="1565299187" Creator="surval" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T14:19:46-07:00</attribute>
+<attribute name="Created" >2019-08-08T14:19:46-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2019-08-08T14:19:46-07:00</attribute>
+<attribute name="Modified" >2019-08-08T14:19:46-08:00</attribute>
 <attribute name="Name" >Internals</attribute>
 <attribute name="SelectionCount" >10</attribute>
 <attribute name="Separator" >true</attribute>
@@ -1008,10 +1235,10 @@ Reference: http://forum.eastgate.com/t/link-between-notes-contained-in-different
 </item>
 <item ID="1565326150" Creator="surval" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T21:49:09-07:00</attribute>
+<attribute name="Created" >2019-08-08T21:49:09-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2019-08-08T21:49:09-07:00</attribute>
+<attribute name="Modified" >2019-08-08T21:49:09-08:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >2</attribute>
 <attribute name="Separator" >true</attribute>
@@ -1022,10 +1249,10 @@ Reference: http://forum.eastgate.com/t/link-between-notes-contained-in-different
 </item>
 <item ID="1565302532" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T15:15:31-07:00</attribute>
+<attribute name="Created" >2019-08-08T15:15:31-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T20:37:49-07:00</attribute>
+<attribute name="Modified" >2019-08-08T20:37:49-08:00</attribute>
 <attribute name="NLNames" >Zettelkasten;Niklas Luhmann;Sönke Ahrens - How</attribute>
 <attribute name="NLPlaces" >German</attribute>
 <attribute name="NLTags" ></attribute>
@@ -1054,10 +1281,10 @@ External Links:
 </item>
 <item ID="1565321489" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T20:37:27-07:00</attribute>
+<attribute name="Created" >2019-08-08T20:37:27-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:12:14-07:00</attribute>
+<attribute name="Modified" >2019-08-08T22:12:14-08:00</attribute>
 <attribute name="Name" >What does Zettelkasten do?</attribute>
 <attribute name="SelectionCount" >103</attribute>
 <attribute name="Width" >4.416381836</attribute>
@@ -1084,11 +1311,12 @@ External Links:
 </item>
 <item ID="1565321849" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T20:40:10-07:00</attribute>
+<attribute name="Created" >2019-08-08T20:40:10-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T13:48:07-07:00</attribute>
+<attribute name="Modified" >2019-08-17T13:48:07-08:00</attribute>
 <attribute name="NLNames" >Niklas Luhmann;Sönke Ahrens</attribute>
+<attribute name="NLOrganizations" >Zettels;Notes</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Basics of a Zettelkasten system</attribute>
 <attribute name="SelectionCount" >120</attribute>
@@ -1113,11 +1341,10 @@ https://booknotes.suprada.com/how-to-take-smart-notes#B06WVYW33Y-T-52
 </item>
 <item ID="1565322241" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T20:44:12-07:00</attribute>
-<attribute name="DominantLanguage" >nb</attribute>
+<attribute name="Created" >2019-08-08T20:44:12-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:04:57-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:04:57-08:00</attribute>
 <attribute name="NLNames" >Luhmann</attribute>
 <attribute name="Name" >Setting up Zettel</attribute>
 <attribute name="SelectionCount" >107</attribute>
@@ -1141,10 +1368,10 @@ References:
 </item>
 <item ID="1565322254" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T20:46:14-07:00</attribute>
+<attribute name="Created" >2019-08-08T20:46:14-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:00:01-07:00</attribute>
+<attribute name="Modified" >2019-08-08T22:00:01-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Link between Zettels</attribute>
 <attribute name="SelectionCount" >112</attribute>
@@ -1171,10 +1398,10 @@ The 6th note is a continuation of ZK1a (but not not ZK1b), and will be ZK1a1 etc
 </item>
 <item ID="1565323623" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T21:07:46-07:00</attribute>
+<attribute name="Created" >2019-08-08T21:07:46-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:01:18-07:00</attribute>
+<attribute name="Modified" >2019-08-08T22:01:18-08:00</attribute>
 <attribute name="Name" >Index for zettels</attribute>
 <attribute name="SelectionCount" >103</attribute>
 <attribute name="Width" >4.416381836</attribute>
@@ -1190,10 +1417,10 @@ As and when the entry points change, or the overview gets updated, the index can
 </item>
 <item ID="1565326234" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T22:01:29-07:00</attribute>
+<attribute name="Created" >2019-08-08T22:01:29-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:03:05-07:00</attribute>
+<attribute name="Modified" >2019-08-08T22:03:05-08:00</attribute>
 <attribute name="Name" >Adding a new Zettel</attribute>
 <attribute name="SelectionCount" >105</attribute>
 <attribute name="Width" >4.416381836</attribute>
@@ -1212,11 +1439,13 @@ As and when the entry points change, or the overview gets updated, the index can
 </item>
 <item ID="1565306070" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T16:14:29-07:00</attribute>
+<attribute name="Created" >2019-08-08T16:14:29-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:13:10-07:00</attribute>
-<attribute name="NLNames" >Sönke Ahrens</attribute>
+<attribute name="Modified" >2019-08-08T22:13:10-08:00</attribute>
+<attribute name="NLNames" >Sönke Ahrens;Ein;Niklas Luhmann;Kleine;Cordula Haux</attribute>
+<attribute name="NLOrganizations" >Universität</attribute>
+<attribute name="NLPlaces" >André;Bielefeld</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Niklas Luhmann</attribute>
 <attribute name="SelectionCount" >42</attribute>
@@ -1235,10 +1464,10 @@ https://luhmann.surge.sh/communicating-with-slip-boxes</text>
 </item>
 <item ID="1565327797" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T22:16:36-07:00</attribute>
+<attribute name="Created" >2019-08-08T22:16:36-08:00</attribute>
 <attribute name="Height" >1.343964351</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:22:00-07:00</attribute>
+<attribute name="Modified" >2019-08-08T22:22:00-08:00</attribute>
 <attribute name="NLNames" >Ahrens</attribute>
 <attribute name="NLOrganizations" >Quora</attribute>
 <attribute name="Name" >Sönke Ahrens</attribute>
@@ -1263,10 +1492,10 @@ method
 </item>
 <item ID="1565328144" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T22:22:23-07:00</attribute>
+<attribute name="Created" >2019-08-08T22:22:23-08:00</attribute>
 <attribute name="Height" >2.309501284</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:25:37-07:00</attribute>
+<attribute name="Modified" >2019-08-08T22:25:37-08:00</attribute>
 <attribute name="NLNames" >Sönke Ahrens</attribute>
 <attribute name="Name" >Zettelkasten Tools - Sonke Ahrens</attribute>
 <attribute name="SelectionCount" >19</attribute>
@@ -1285,10 +1514,10 @@ Libre Office - text editor.
 </item>
 <item ID="1565328456" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T22:27:35-07:00</attribute>
+<attribute name="Created" >2019-08-08T22:27:35-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:30:53-07:00</attribute>
+<attribute name="Modified" >2019-08-08T22:30:53-08:00</attribute>
 <attribute name="Name" >Tools Survey - references</attribute>
 <attribute name="SelectionCount" >17</attribute>
 <attribute name="Width" >4.416381836</attribute>
@@ -1324,10 +1553,11 @@ StandardNotes
 </item>
 <item ID="1565328457" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-08T22:31:35-07:00</attribute>
+<attribute name="Created" >2019-08-08T22:31:35-08:00</attribute>
+<attribute name="DominantLanguage" >nl</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-08T22:32:04-07:00</attribute>
+<attribute name="Modified" >2019-08-08T22:32:04-08:00</attribute>
 <attribute name="NLPlaces" >Windows</attribute>
 <attribute name="Name" >Tools Survey - tools</attribute>
 <attribute name="SelectionCount" >24</attribute>
@@ -1374,11 +1604,11 @@ Free
 <item ID="1565328796" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-08T22:33:15-07:00</attribute>
+<attribute name="Created" >2019-08-08T22:33:15-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T15:46:39-07:00</attribute>
-<attribute name="NLNames" >Robert Greene;Maria;Derek;Jason;Shane Parish;Bill Gates</attribute>
+<attribute name="Modified" >2019-09-02T15:46:39-08:00</attribute>
+<attribute name="NLNames" >Sönke Ahrens;Robert Greene;Maria;Derek;Jason;Shane Parish;Bill Gates</attribute>
 <attribute name="NLPlaces" >Farnham</attribute>
 <attribute name="Name" >Notetaking Methodologies</attribute>
 <attribute name="SelectionCount" >51</attribute>
@@ -1420,10 +1650,10 @@ TODO-flesh, branch
 <item ID="1566058417" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-17T09:13:36-07:00</attribute>
+<attribute name="Created" >2019-08-17T09:13:36-08:00</attribute>
 <attribute name="Height" >1.51199126</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T13:46:43-07:00</attribute>
+<attribute name="Modified" >2019-08-17T13:46:43-08:00</attribute>
 <attribute name="Name" >Read with a pen in hand</attribute>
 <attribute name="SelectionCount" >40</attribute>
 <attribute name="Width" >5.170671673</attribute>
@@ -1444,10 +1674,10 @@ References:
 </item>
 <item ID="1566058438" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T09:13:57-07:00</attribute>
+<attribute name="Created" >2019-08-17T09:13:57-08:00</attribute>
 <attribute name="Height" >1.343964351</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T09:30:39-07:00</attribute>
+<attribute name="Modified" >2019-08-17T09:30:39-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Artisanal Software</attribute>
 <attribute name="SelectionCount" >14</attribute>
@@ -1469,11 +1699,10 @@ References
 <item ID="1566059416" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-17T09:30:15-07:00</attribute>
-<attribute name="DominantLanguage" ></attribute>
+<attribute name="Created" >2019-08-17T09:30:15-08:00</attribute>
 <attribute name="Height" >1.234948694</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T15:06:04-07:00</attribute>
+<attribute name="Modified" >2019-08-17T15:06:04-08:00</attribute>
 <attribute name="Name" >Writing HTML Blog in HTML</attribute>
 <attribute name="SelectionCount" >10</attribute>
 <attribute name="Width" >5.170671673</attribute>
@@ -1508,11 +1737,10 @@ References:
 <item ID="1566059463" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-17T09:31:02-07:00</attribute>
-<attribute name="DominantLanguage" >da</attribute>
+<attribute name="Created" >2019-08-17T09:31:02-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T15:21:12-07:00</attribute>
+<attribute name="Modified" >2019-08-17T15:21:12-08:00</attribute>
 <attribute name="NLOrganizations" >ZK</attribute>
 <attribute name="Name" >Tinderbox 8 for Zettelkasten</attribute>
 <attribute name="SelectionCount" >14</attribute>
@@ -1550,13 +1778,13 @@ light-skin: fedc75
 <item ID="1566059833" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-17T09:37:12-07:00</attribute>
+<attribute name="Created" >2019-08-17T09:37:12-08:00</attribute>
 <attribute name="Height" >1.343964351</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:01:18-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:01:18-08:00</attribute>
 <attribute name="NLNames" >Jenny Odell - How</attribute>
 <attribute name="Name" >Maintanence as Productivity</attribute>
-<attribute name="SelectionCount" >10</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >4.514550911</attribute>
 <attribute name="Xpos" >-3.622805916</attribute>
 <attribute name="Ypos" >32.01158352</attribute>
@@ -1584,10 +1812,10 @@ TODO
 </item>
 <item ID="1566060590" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T09:49:49-07:00</attribute>
+<attribute name="Created" >2019-08-17T09:49:49-08:00</attribute>
 <attribute name="Height" >2.256338074</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T13:51:04-07:00</attribute>
+<attribute name="Modified" >2019-08-17T13:51:04-08:00</attribute>
 <attribute name="Name" >Visualization of links</attribute>
 <attribute name="SelectionCount" >10</attribute>
 <attribute name="Width" >4.416381836</attribute>
@@ -1618,10 +1846,10 @@ References:
 </item>
 <item ID="1566075085" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T13:51:24-07:00</attribute>
+<attribute name="Created" >2019-08-17T13:51:24-08:00</attribute>
 <attribute name="Height" >1.700693001</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:28:44-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:28:44-08:00</attribute>
 <attribute name="Name" >Why take notes</attribute>
 <attribute name="SelectionCount" >18</attribute>
 <attribute name="Width" >5.603107985</attribute>
@@ -1643,9 +1871,9 @@ References:
 <item ID="1566075363" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-17T13:56:02-07:00</attribute>
+<attribute name="Created" >2019-08-17T13:56:02-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:46:40-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:46:40-08:00</attribute>
 <attribute name="Name" >Who are the Notes for?</attribute>
 <attribute name="SelectionCount" >13</attribute>
 <attribute name="Width" >3.81951733</attribute>
@@ -1665,9 +1893,9 @@ References:
 </item>
 <item ID="1566075450" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T13:57:29-07:00</attribute>
+<attribute name="Created" >2019-08-17T13:57:29-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T13:57:29-07:00</attribute>
+<attribute name="Modified" >2019-08-17T13:57:29-08:00</attribute>
 <attribute name="Name" >How to read a book</attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >4.416381836</attribute>
@@ -1686,10 +1914,10 @@ References:
 </item>
 <item ID="1566076315" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T14:11:54-07:00</attribute>
+<attribute name="Created" >2019-08-17T14:11:54-08:00</attribute>
 <attribute name="Height" >1.744128366</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:15:35-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:15:35-08:00</attribute>
 <attribute name="Name" >Discovery of emergent structure through incremental assignment</attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >3.708190918</attribute>
@@ -1707,10 +1935,11 @@ Like compound interest, like evolution
 </item>
 <item ID="1566076395" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T14:13:14-07:00</attribute>
+<attribute name="Created" >2019-08-17T14:13:14-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:14:56-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:14:56-08:00</attribute>
+<attribute name="NLNames" >Peter Kaufman</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Compound Interest</attribute>
 <attribute name="SelectionCount" >6</attribute>
@@ -1731,10 +1960,9 @@ Reference: http://latticeworkinvesting.com/2018/04/06/peter-kaufman-on-the-multi
 <item ID="1566077153" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-17T14:25:52-07:00</attribute>
-<attribute name="DominantLanguage" ></attribute>
+<attribute name="Created" >2019-08-17T14:25:52-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:27:18-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:27:18-08:00</attribute>
 <attribute name="Name" >Commonplace Books</attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >3.874841193</attribute>
@@ -1754,15 +1982,15 @@ References:
 <item ID="1566077415" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-17T14:30:14-07:00</attribute>
+<attribute name="Created" >2019-08-17T14:30:14-08:00</attribute>
 <attribute name="Height" >1.51199126</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:33:10-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:33:10-08:00</attribute>
 <attribute name="Name" >How to write blog posts</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >5.289500171</attribute>
-<attribute name="Xpos" >-3.563391705</attribute>
-<attribute name="Ypos" >34.71874895</attribute>
+<attribute name="Xpos" >-3.563391861</attribute>
+<attribute name="Ypos" >34.71874902</attribute>
 <attribute name="ZKID" >8</attribute>
 <text >1. Write for a reason - know your reason
 2. Show us the details, 
@@ -1784,10 +2012,10 @@ References:
 </item>
 <item ID="1566078673" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T14:51:12-07:00</attribute>
+<attribute name="Created" >2019-08-17T14:51:12-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:52:55-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:52:55-08:00</attribute>
 <attribute name="Name" >Writing an atomic note</attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >4.527708248</attribute>
@@ -1804,13 +2032,13 @@ Is in your context - the words you understand, the summary / gist of the idea
 </item>
 <item ID="1566078977" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T14:56:16-07:00</attribute>
+<attribute name="Created" >2019-08-17T14:56:16-08:00</attribute>
 <attribute name="Height" >1.922582951</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T14:59:02-07:00</attribute>
+<attribute name="Modified" >2019-08-17T14:59:02-08:00</attribute>
 <attribute name="NLNames" >Niklas Luhman</attribute>
 <attribute name="Name" >Productive Procrastination</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >5.170671673</attribute>
 <attribute name="Xpos" >-3.503977418</attribute>
 <attribute name="Ypos" >37.10002331</attribute>
@@ -1830,10 +2058,10 @@ References:
 </item>
 <item ID="1566079704" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-17T15:08:23-07:00</attribute>
+<attribute name="Created" >2019-08-17T15:08:23-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-17T15:10:03-07:00</attribute>
+<attribute name="Modified" >2019-08-17T15:10:03-08:00</attribute>
 <attribute name="Name" >What&apos;s a great investment?</attribute>
 <attribute name="SelectionCount" >11</attribute>
 <attribute name="Width" >4.416381868</attribute>
@@ -1858,12 +2086,12 @@ References:
 </item>
 <item ID="1566700995" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-24T19:43:14-07:00</attribute>
+<attribute name="Created" >2019-08-24T19:43:14-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-24T19:54:27-07:00</attribute>
+<attribute name="Modified" >2019-08-24T19:54:27-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >My Mental Models</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >14</attribute>
 <attribute name="Xpos" >-8.458535358</attribute>
 <attribute name="Ypos" >8.133042427</attribute>
 <attribute name="ZKID" >10</attribute>
@@ -1878,10 +2106,9 @@ References:
 </item>
 <item ID="1566701695" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-24T19:54:54-07:00</attribute>
-<attribute name="DominantLanguage" ></attribute>
+<attribute name="Created" >2019-08-24T19:54:54-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-24T19:55:45-07:00</attribute>
+<attribute name="Modified" >2019-08-24T19:55:45-08:00</attribute>
 <attribute name="Name" >Tips for Living</attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >-9.109377847</attribute>
@@ -1896,9 +2123,9 @@ Some tips, tricks, tools - mostly counterintuitive for living
 <item ID="1566701813" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-24T19:56:52-07:00</attribute>
+<attribute name="Created" >2019-08-24T19:56:52-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-24T20:00:17-07:00</attribute>
+<attribute name="Modified" >2019-08-24T20:00:17-08:00</attribute>
 <attribute name="NLNames" >Peter Kaufman;Robert Greene</attribute>
 <attribute name="Name" >Mirrored Reflection</attribute>
 <attribute name="SelectionCount" >5</attribute>
@@ -1918,10 +2145,10 @@ Mirror Neurons - physiology, psychology TBD
 <item ID="1566702035" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-24T20:00:34-07:00</attribute>
+<attribute name="Created" >2019-08-24T20:00:34-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-24T20:03:22-07:00</attribute>
+<attribute name="Modified" >2019-08-24T20:03:22-08:00</attribute>
 <attribute name="Name" >Loss Aversion</attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >4.416381838</attribute>
@@ -1938,17 +2165,17 @@ Mirror Neurons - physiology, psychology TBD
 </item>
 <item ID="1566702275" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-24T20:04:34-07:00</attribute>
+<attribute name="Created" >2019-08-24T20:04:34-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="MapScrollX" >0</attribute>
 <attribute name="MapScrollY" >0</attribute>
-<attribute name="Modified" >2019-08-24T20:07:16-07:00</attribute>
+<attribute name="Modified" >2019-08-24T20:07:16-08:00</attribute>
 <attribute name="NLOrganizations" >Newport</attribute>
 <attribute name="Name" >Deep Work</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="Width" >5.170671673</attribute>
-<attribute name="Xpos" >-3.503977498</attribute>
-<attribute name="Ypos" >39.89188929</attribute>
+<attribute name="Xpos" >-3.503977574</attribute>
+<attribute name="Ypos" >39.89188928</attribute>
 <attribute name="ZKID" >12a</attribute>
 <text >Working at the limits of your cognitive and mental skills, with intense concentration, without distraction, to produce valuable, creative, non-repetitive work, improve your skills and super hard to copy.
 
@@ -1958,17 +2185,37 @@ https://booknotes.suprada.com/deep-work-rules-for-focused#B00X47ZVXM-T-1
 </text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5XAgAAKwAAAAEAAABPAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgV29ya2luZyBhdCB0aGUgbGltaXRzIG9mIHlvdXIgY29nbml0aXZlIGFuZCBtZW50YWwgc2tpbGxzLCB3aXRoIGludGVuc2UgY29uY2VudHJhdGlvbiwgd2l0aG91dCBkaXN0cmFjdGlvbiwgdG8gcHJvZHVjZSB2YWx1YWJsZSwgY3JlYXRpdmUsIG5vbi1yZXBldGl0aXZlIHdvcmssIGltcHJvdmUgeW91ciBza2lsbHMgYW5kIHN1cGVyIGhhcmQgdG8gY29weS5cClwKQ2FsIE5ld3BvcnRcCmh0dHBzOi8vYm9va25vdGVzLnN1cHJhZGEuY29tL2RlZXAtd29yay1ydWxlcy1mb3ItZm9jdXNlZCNCMDBYNDdaVlhNLVQtMVwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAZPthXbYBAAAAAAAAAAAAAA==</rtfd>
 </item>
+<item ID="1577468435" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-12-27T09:48:02-08:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >0</attribute>
+<attribute name="MapScrollY" >0</attribute>
+<attribute name="Modified" >2019-12-27T09:51:08-08:00</attribute>
+<attribute name="NLNames" >Mary Somerville</attribute>
+<attribute name="Name" >Abilities of Focus</attribute>
+<attribute name="SelectionCount" >20</attribute>
+<attribute name="Width" >5.170671673</attribute>
+<attribute name="Xpos" >-3.477926964</attribute>
+<attribute name="Ypos" >42.62117232</attribute>
+<attribute name="ZKID" >12c</attribute>
+<text >1. Can only focus during a planned time slot for your work (deep work focus)
+2. Can only focus when you are doing anything work related - but anywhere
+3. Can focus when you get a window - anytime anywhere like Mary Somerville
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4mAgAAKwAAAAEAAAAeAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyNTExClxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgMS4gQ2FuIG9ubHkgZm9jdXMgZHVyaW5nIGEgcGxhbm5lZCB0aW1lIHNsb3QgZm9yIHlvdXIgd29yayAoZGVlcCB3b3JrIGZvY3VzKVwKMi4gQ2FuIG9ubHkgZm9jdXMgd2hlbiB5b3UgYXJlIGRvaW5nIGFueXRoaW5nIHdvcmsgcmVsYXRlZCAtIGJ1dCBhbnl3aGVyZVwKMy4gQ2FuIGZvY3VzIHdoZW4geW91IGdldCBhIHdpbmRvdyAtIGFueXRpbWUgYW55d2hlcmUgbGlrZSBNYXJ5IFNvbWVydmlsbGVcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADQRAZetgEAAAAAAAAAAAAA</rtfd>
+</item>
 <item ID="1566702444" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-24T20:07:23-07:00</attribute>
+<attribute name="Created" >2019-08-24T20:07:23-08:00</attribute>
 <attribute name="Height" >2.022459759</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-24T20:07:23-07:00</attribute>
+<attribute name="Modified" >2019-08-24T20:07:23-08:00</attribute>
 <attribute name="Name" >Productivity</attribute>
-<attribute name="SelectionCount" >13</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="Width" >3.583440961</attribute>
 <attribute name="Xpos" >-9.139053144</attribute>
-<attribute name="Ypos" >39.81065946</attribute>
+<attribute name="Ypos" >39.81065939</attribute>
 <attribute name="ZKID" >12</attribute>
 <text >Your note goes here. Remember to keep it 
 - atomic
@@ -1982,14 +2229,14 @@ https://booknotes.suprada.com/deep-work-rules-for-focused#B00X47ZVXM-T-1
 </item>
 <item ID="1566702610" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-24T20:10:09-07:00</attribute>
+<attribute name="Created" >2019-08-24T20:10:09-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-24T20:10:54-07:00</attribute>
+<attribute name="Modified" >2019-08-24T20:10:54-08:00</attribute>
 <attribute name="Name" >Enemies of Deep Work</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="Width" >3.500208613</attribute>
-<attribute name="Xpos" >3.718329049</attribute>
-<attribute name="Ypos" >39.89188931</attribute>
+<attribute name="Xpos" >3.718328999</attribute>
+<attribute name="Ypos" >39.89188927</attribute>
 <attribute name="ZKID" >12a1</attribute>
 <text >- Distraction
 - Multitasking
@@ -2002,14 +2249,13 @@ https://booknotes.suprada.com/deep-work-rules-for-focused#B00X47ZVXM-T-1
 </item>
 <item ID="1566702661" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-08-24T20:11:00-07:00</attribute>
-<attribute name="DominantLanguage" >fr</attribute>
+<attribute name="Created" >2019-08-24T20:11:00-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-24T20:11:33-07:00</attribute>
+<attribute name="Modified" >2019-08-24T20:11:33-08:00</attribute>
 <attribute name="Name" >Requirements of Deep Work</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >3.500208613</attribute>
-<attribute name="Xpos" >9.210758236</attribute>
+<attribute name="Xpos" >9.237653315</attribute>
 <attribute name="Ypos" >39.8918893</attribute>
 <attribute name="ZKID" >12a2</attribute>
 <text >- Solitude
@@ -2020,19 +2266,85 @@ https://booknotes.suprada.com/deep-work-rules-for-focused#B00X47ZVXM-T-1
 </text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5lAQAAKwAAAAEAAABdAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgLSBTb2xpdHVkZVwKLSBMb25nIGJsb2NrcyBvZiB1bmRpc3RyYWN0ZWQgdGltZVwKXApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAGX8YV22AQAAAAAAAAAAAAA=</rtfd>
 </item>
+<item ID="1577467994" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-12-27T09:35:29-08:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-12-27T09:37:26-08:00</attribute>
+<attribute name="NLTags" ></attribute>
+<attribute name="Name" >Specific Place and Time</attribute>
+<attribute name="SelectionCount" >14</attribute>
+<attribute name="Width" >3.500208613</attribute>
+<attribute name="Xpos" >13.72209748</attribute>
+<attribute name="Ypos" >38.82950209</attribute>
+<attribute name="ZKID" >12a2a</attribute>
+<text >Specific place and time for deep work
+eg. When I am at my desk, with headphones on, on workdays, between 9am and 11.30am and1pm and 4pm, when not in meetings
+eg. When I am at my desk at home, with headphones on, with the door closed, with the desk clean, with my laptop
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5WAgAAKwAAAAEAAABOAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyNTExClxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgU3BlY2lmaWMgcGxhY2UgYW5kIHRpbWUgZm9yIGRlZXAgd29ya1wKZWcuIFdoZW4gSSBhbSBhdCBteSBkZXNrLCB3aXRoIGhlYWRwaG9uZXMgb24sIG9uIHdvcmtkYXlzLCBiZXR3ZWVuIDlhbSBhbmQgMTEuMzBhbSBhbmQxcG0gYW5kIDRwbSwgd2hlbiBub3QgaW4gbWVldGluZ3NcCmVnLiBXaGVuIEkgYW0gYXQgbXkgZGVzayBhdCBob21lLCB3aXRoIGhlYWRwaG9uZXMgb24sIHdpdGggdGhlIGRvb3IgY2xvc2VkLCB3aXRoIHRoZSBkZXNrIGNsZWFuLCB3aXRoIG15IGxhcHRvcFwKXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABWQQZetgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1577468131" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-12-27T09:37:30-08:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-12-27T09:40:20-08:00</attribute>
+<attribute name="NLNames" >Rachmaninoff</attribute>
+<attribute name="Name" >Specify the parameters</attribute>
+<attribute name="SelectionCount" >14</attribute>
+<attribute name="Width" >3.500208613</attribute>
+<attribute name="Xpos" >13.72209748</attribute>
+<attribute name="Ypos" >41.1895021</attribute>
+<attribute name="ZKID" >12a2b</attribute>
+<text >What are the rules when you are in deep work?
+
+- no browsing
+- close all other tabs and applications
+- phone is on vibrate, in do not disturb mode, with face down, away from sight
+- listen to x playlist (deep focus -&gt; Rachmaninoff)
+- have a notepad and pen next to you. When other thoughts come, write it down and get back to your work
+- each session is 45mins
+- at the end of each session, the last 2 mins, write down what you will do when you start the next session
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4iAwAAKwAAAAEAAAAaAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyNTExClxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgV2hhdCBhcmUgdGhlIHJ1bGVzIHdoZW4geW91IGFyZSBpbiBkZWVwIHdvcms/XApcCi0gbm8gYnJvd3NpbmdcCi0gY2xvc2UgYWxsIG90aGVyIHRhYnMgYW5kIGFwcGxpY2F0aW9uc1wKLSBwaG9uZSBpcyBvbiB2aWJyYXRlLCBpbiBkbyBub3QgZGlzdHVyYiBtb2RlLCB3aXRoIGZhY2UgZG93biwgYXdheSBmcm9tIHNpZ2h0XAotIGxpc3RlbiB0byB4IHBsYXlsaXN0IChkZWVwIGZvY3VzIC0+IFJhY2htYW5pbm9mZilcCi0gaGF2ZSBhIG5vdGVwYWQgYW5kIHBlbiBuZXh0IHRvIHlvdS4gV2hlbiBvdGhlciB0aG91Z2h0cyBjb21lLCB3cml0ZSBpdCBkb3duIGFuZCBnZXQgYmFjayB0byB5b3VyIHdvcmtcCi0gZWFjaCBzZXNzaW9uIGlzIDQ1bWluc1wKLSBhdCB0aGUgZW5kIG9mIGVhY2ggc2Vzc2lvbiwgdGhlIGxhc3QgMiBtaW5zLCB3cml0ZSBkb3duIHdoYXQgeW91IHdpbGwgZG8gd2hlbiB5b3Ugc3RhcnQgdGhlIG5leHQgc2Vzc2lvblwKXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAEQgZetgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1577468252" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2019-12-27T09:40:33-08:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-12-27T09:42:31-08:00</attribute>
+<attribute name="Name" >Support the Brain</attribute>
+<attribute name="SelectionCount" >18</attribute>
+<attribute name="Width" >3.500208613</attribute>
+<attribute name="Xpos" >14.01439647</attribute>
+<attribute name="Ypos" >43.54950211</attribute>
+<attribute name="ZKID" >12a2c</attribute>
+<text >
+Make sure you make it easy for your brain to get into deep focus
+- have a bottle of water with you
+- have a light jacket to keep your body warm
+- prefer standing over sitting
+- have a cup of tea / coffee with you
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4dAgAAKwAAAAEAAAAVAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyNTExClxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgXApNYWtlIHN1cmUgeW91IG1ha2UgaXQgZWFzeSBmb3IgeW91ciBicmFpbiB0byBnZXQgaW50byBkZWVwIGZvY3VzXAotIGhhdmUgYSBib3R0bGUgb2Ygd2F0ZXIgd2l0aCB5b3VcCi0gaGF2ZSBhIGxpZ2h0IGphY2tldCB0byBrZWVwIHlvdXIgYm9keSB3YXJtXAotIHByZWZlciBzdGFuZGluZyBvdmVyIHNpdHRpbmdcCi0gaGF2ZSBhIGN1cCBvZiB0ZWEgLyBjb2ZmZWUgd2l0aCB5b3VcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACYQgZetgEAAAAAAAAAAAAA</rtfd>
+</item>
 <item ID="1566702808" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-08-24T20:13:27-07:00</attribute>
+<attribute name="Created" >2019-08-24T20:13:27-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-08-24T20:13:56-07:00</attribute>
+<attribute name="Modified" >2019-08-24T20:13:56-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >One&apos;s own place</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >5.230085922</attribute>
-<attribute name="Xpos" >-3.503977418</attribute>
-<attribute name="Ypos" >43.15755743</attribute>
+<attribute name="Xpos" >-3.533684661</attribute>
+<attribute name="Ypos" >51.54455466</attribute>
 <attribute name="ZKID" >13</attribute>
 <text >A room of one’s own
 
@@ -2044,10 +2356,10 @@ https://booknotes.suprada.com/deep-work-rules-for-focused#B00X47ZVXM-T-1
 <item ID="1567403912" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
 <attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-09-01T22:57:50-07:00</attribute>
+<attribute name="Created" >2019-09-01T22:57:50-08:00</attribute>
 <attribute name="Height" >2.328235591</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-01T23:00:26-07:00</attribute>
+<attribute name="Modified" >2019-09-01T23:00:26-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >The map is not the territory</attribute>
 <attribute name="SelectionCount" >8</attribute>
@@ -2065,188 +2377,18 @@ It is also accepting that we can never really know reality, that what we think i
 </text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7KAgAAKwAAAAEAAADCAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgSG93IHlvdSBwZXJjZWl2ZSByZWFsaXR5IGlzIG5vdCByZWFsaXR5LlwKVGhlIGF0dGVtcHQgdG8gcGVyY2VpdmUgcmVhbGl0eSBpcyBvbmdvaW5nIGFzIGxvbmcgYXMgd2UgbGl2ZS4gSXQgaXMgaW4gdGhlIGZpZ2h0IHRvIG92ZXJjb21lIGluaGVyZW50IGJpYXNlcy5cCkl0IGlzIGJ5IGFjY2VwdGluZywgcHJvY2Vzc2luZyBjcml0aWNpc20gdGhhdCB3ZSBsZWFybiB0byBxdWVzdGlvbiBvdXIgbWFwLiBTbyBzZWVrIGNyaXRpY2lzbSwgc2Vlay4gZmVlZGJhY2suXApJdCBpcyBhbHNvIGFjY2VwdGluZyB0aGF0IHdlIGNhbiBuZXZlciByZWFsbHkga25vdyByZWFsaXR5LCB0aGF0IHdoYXQgd2UgdGhpbmsgaXMgcmVhbCAtIGlzIHRoZSBtYXAuIFRoYXQgaHVtaWxpdHksIGludGVsbGVjdHVhbCBvcGVubmVzc1wKXApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAACx1bV22AQAAAAAAAAAAAAA=</rtfd>
 </item>
-<item ID="1567454553" Creator="surval" proto="*zettel-prototype" >
-<attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T13:02:10-07:00</attribute>
-<attribute name="Height" >2.022459759</attribute>
-<attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T13:05:06-07:00</attribute>
-<attribute name="Name" >On Side Projects and Entrepreneurial ambitions</attribute>
-<attribute name="SelectionCount" >11</attribute>
-<attribute name="Width" >5.387720473</attribute>
-<attribute name="Xpos" >-10.94333266</attribute>
-<attribute name="Ypos" >46.97980244</attribute>
-<attribute name="ZKID" >14</attribute>
-<text >How to pick
-- side projects
-- entrepreneurial ideas
-
-
-
-
-</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5uAQAAKwAAAAEAAABmAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgSG93IHRvIHBpY2tcCi0gc2lkZSBwcm9qZWN0c1wKLSBlbnRyZXByZW5ldXJpYWwgaWRlYXNcClwKXApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAPJ1bV22AQAAAAAAAAAAAAA=</rtfd>
-</item>
-<item ID="1567454645" Creator="surval" proto="*zettel-prototype" >
-<attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T13:04:04-07:00</attribute>
-<attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T13:06:06-07:00</attribute>
-<attribute name="NLOrganizations" >Side Hustle School</attribute>
-<attribute name="Name" >How to pick between two entrepreneurial ideas</attribute>
-<attribute name="SelectionCount" >10</attribute>
-<attribute name="Width" >5.995225755</attribute>
-<attribute name="Xpos" >-3.886547378</attribute>
-<attribute name="Ypos" >47.0610324</attribute>
-<attribute name="ZKID" >14a</attribute>
-<text >How to pick between two ideas:
-1. Ease of startup
-2. Profit potential
-3. Motivation - at this present time
-Make a decision for right now, you can revisit later
-
-
-Source: Side Hustle School podcast, weekly recap # 12
-</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4PAgAAKwAAAAEAAAAHAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgSG93IHRvIHBpY2sgYmV0d2VlbiB0d28gaWRlYXM6XAoxLiBFYXNlIG9mIHN0YXJ0dXBcCjIuIFByb2ZpdCBwb3RlbnRpYWxcCjMuIE1vdGl2YXRpb24gLSBhdCB0aGlzIHByZXNlbnQgdGltZVwKTWFrZSBhIGRlY2lzaW9uIGZvciByaWdodCBub3csIHlvdSBjYW4gcmV2aXNpdCBsYXRlclwKXApcClNvdXJjZTogU2lkZSBIdXN0bGUgU2Nob29sIHBvZGNhc3QsIHdlZWtseSByZWNhcCAjIDEyXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAALnZtXbYBAAAAAAAAAAAAAA==</rtfd>
-</item>
-<item ID="1567454775" Creator="surval" proto="*zettel-prototype" >
-<attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T13:06:14-07:00</attribute>
-<attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T13:14:56-07:00</attribute>
-<attribute name="Name" >How to come up with an idea</attribute>
-<attribute name="SelectionCount" >13</attribute>
-<attribute name="Width" >4.742324893</attribute>
-<attribute name="Xpos" >3.718328993</attribute>
-<attribute name="Ypos" >47.06103234</attribute>
-<attribute name="ZKID" >14b</attribute>
-<text >Options: 
-1. Solve an often recurring problem
-
-
-</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5jAQAAKwAAAAEAAABbAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgT3B0aW9uczogXAoxLiBTb2x2ZSBhbiBvZnRlbiByZWN1cnJpbmcgcHJvYmxlbVwKXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABAeG1dtgEAAAAAAAAAAAAA</rtfd>
-</item>
-<item ID="1567455010" Creator="surval" proto="*zettel-prototype" >
-<attribute name="Associates" ></attribute>
-<attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-09-02T13:10:09-07:00</attribute>
-<attribute name="DominantLanguage" ></attribute>
-<attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T13:11:03-07:00</attribute>
-<attribute name="Name" >Framework for quitting</attribute>
-<attribute name="SelectionCount" >4</attribute>
-<attribute name="Width" >3.500208613</attribute>
-<attribute name="Xpos" >10.51418786</attribute>
-<attribute name="Ypos" >47.06103235</attribute>
-<attribute name="ZKID" >14c</attribute>
-<text >
-When to quit? Or keep going? How to decide?
-Winners are constantly evaluating and always asking themselves what&apos;s the best possible thing they can do is.
-Framework for quitting: ask 2 questions:
-1. Is it working?
-2. Do you still believe in it?
-
-
-</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4uAgAAKwAAAAEAAAAmAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgXApXaGVuIHRvIHF1aXQ/IE9yIGtlZXAgZ29pbmc/IEhvdyB0byBkZWNpZGU/XApXaW5uZXJzIGFyZSBjb25zdGFudGx5IGV2YWx1YXRpbmcgYW5kIGFsd2F5cyBhc2tpbmcgdGhlbXNlbHZlcyB3aGF0J3MgdGhlIGJlc3QgcG9zc2libGUgdGhpbmcgdGhleSBjYW4gZG8gaXMuXApGcmFtZXdvcmsgZm9yIHF1aXR0aW5nOiBhc2sgMiBxdWVzdGlvbnM6XAoxLiBJcyBpdCB3b3JraW5nP1wKMi4gRG8geW91IHN0aWxsIGJlbGlldmUgaW4gaXQ/XApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAOh3bV22AQAAAAAAAAAAAAA=</rtfd>
-</item>
-<item ID="1567455245" Creator="surval" proto="*zettel-prototype" >
-<attribute name="Associates" ></attribute>
-<attribute name="Badge" >label red</attribute>
-<attribute name="Created" >2019-09-02T13:14:04-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T13:16:48-07:00</attribute>
-<attribute name="Name" >Qualities of a good idea</attribute>
-<attribute name="SelectionCount" >9</attribute>
-<attribute name="Width" >4.742324897</attribute>
-<attribute name="Xpos" >3.718328957</attribute>
-<attribute name="Ypos" >49.42103234</attribute>
-<attribute name="ZKID" >14b1</attribute>
-<text >Questions to ask about your idea:
-1. Is it useful?
-2. Is it helpful? 
-3. Does it solve a problem?
-4. Is it interesting?
-5. Is it valuable?
-
-
-You have to go from a good idea to an offer. Offer is something specific - it is clear what the purchaser gets in return for their money.</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5KAgAAKwAAAAEAAABCAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjIgUXVlc3Rpb25zIHRvIGFzayBhYm91dCB5b3VyIGlkZWE6XAoxLiBJcyBpdCB1c2VmdWw/XAoyLiBJcyBpdCBoZWxwZnVsPyBcCjMuIERvZXMgaXQgc29sdmUgYSBwcm9ibGVtP1wKNC4gSXMgaXQgaW50ZXJlc3Rpbmc/XAo1LiBJcyBpdCB2YWx1YWJsZT9cClwKXApZb3UgaGF2ZSB0byBnbyBmcm9tIGEgZ29vZCBpZGVhIHRvIGFuIG9mZmVyLiBPZmZlciBpcyBzb21ldGhpbmcgc3BlY2lmaWMgLSBpdCBpcyBjbGVhciB3aGF0IHRoZSBwdXJjaGFzZXIgZ2V0cyBpbiByZXR1cm4gZm9yIHRoZWlyIG1vbmV5Ln0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAC6eG1dtgEAAAAAAAAAAAAA</rtfd>
-</item>
-<item ID="1567455469" Creator="surval" proto="*zettel-prototype" >
-<attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T13:17:48-07:00</attribute>
-<attribute name="Height" >2.022459759</attribute>
-<attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T13:19:06-07:00</attribute>
-<attribute name="Name" >The entrepreneurial mindset - what if this works?</attribute>
-<attribute name="SelectionCount" >4</attribute>
-<attribute name="Width" >5.995225755</attribute>
-<attribute name="Xpos" >-3.916254502</attribute>
-<attribute name="Ypos" >49.98126562</attribute>
-<attribute name="ZKID" >14d</attribute>
-<text >What if this does work? Then what is your vision, your plan?
-
-
-</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5xAQAAKwAAAAEAAABpAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgV2hhdCBpZiB0aGlzIGRvZXMgd29yaz8gVGhlbiB3aGF0IGlzIHlvdXIgdmlzaW9uLCB5b3VyIHBsYW4/XApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAEZ5bV22AQAAAAAAAAAAAAA=</rtfd>
-</item>
-<item ID="1567455597" Creator="surval" proto="*zettel-prototype" >
-<attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T13:19:56-07:00</attribute>
-<attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T13:20:47-07:00</attribute>
-<attribute name="Name" >What is your story?</attribute>
-<attribute name="SelectionCount" >6</attribute>
-<attribute name="Width" >5.995225755</attribute>
-<attribute name="Xpos" >-3.886547421</attribute>
-<attribute name="Ypos" >53.06395861</attribute>
-<attribute name="ZKID" >14e</attribute>
-<text >What is your story? Your vision? You? 
-
-
-
-</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5dAQAAKwAAAAEAAABVAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgV2hhdCBpcyB5b3VyIHN0b3J5PyBZb3VyIHZpc2lvbj8gWW91PyBcClwKXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACieW1dtgEAAAAAAAAAAAAA</rtfd>
-</item>
-<item ID="1567455694" Creator="surval" proto="*zettel-prototype" >
-<attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T13:21:33-07:00</attribute>
-<attribute name="Height" >2.022459759</attribute>
-<attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T13:23:36-07:00</attribute>
-<attribute name="Name" >Customers survey</attribute>
-<attribute name="SelectionCount" >13</attribute>
-<attribute name="Width" >5.612655883</attribute>
-<attribute name="Xpos" >-3.886547378</attribute>
-<attribute name="Ypos" >55.42395862</attribute>
-<attribute name="ZKID" >14f</attribute>
-<text >Talk to your users.
-1. Watch them use it
-2. Ask them if they have recommended it to someone els? Why? Why not?
-3. Will you buy this? Why not? What would it take for you to buy it?
-4. Talk about specific features. Do they use something else? What did they use before?
-5. Any frustrations using your product?
-
-
-</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5sAgAAKwAAAAEAAABkAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgVGFsayB0byB5b3VyIHVzZXJzLlwKMS4gV2F0Y2ggdGhlbSB1c2UgaXRcCjIuIEFzayB0aGVtIGlmIHRoZXkgaGF2ZSByZWNvbW1lbmRlZCBpdCB0byBzb21lb25lIGVscz8gV2h5PyBXaHkgbm90P1wKMy4gV2lsbCB5b3UgYnV5IHRoaXM/IFdoeSBub3Q/IFdoYXQgd291bGQgaXQgdGFrZSBmb3IgeW91IHRvIGJ1eSBpdD9cCjQuIFRhbGsgYWJvdXQgc3BlY2lmaWMgZmVhdHVyZXMuIERvIHRoZXkgdXNlIHNvbWV0aGluZyBlbHNlPyBXaGF0IGRpZCB0aGV5IHVzZSBiZWZvcmU/XAo1LiBBbnkgZnJ1c3RyYXRpb25zIHVzaW5nIHlvdXIgcHJvZHVjdD9cClwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAA0aptXbYBAAAAAAAAAAAAAA==</rtfd>
-</item>
 <item ID="1567464927" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T15:55:26-07:00</attribute>
+<attribute name="Created" >2019-09-02T15:55:26-08:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T15:57:11-07:00</attribute>
+<attribute name="Modified" >2019-09-02T15:57:11-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Hanlon&apos;s razor</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >4.416381838</attribute>
-<attribute name="Xpos" >-3.643465484</attribute>
-<attribute name="Ypos" >-7.040334278</attribute>
+<attribute name="Xpos" >-3.64346558</attribute>
+<attribute name="Ypos" >-7.094424578</attribute>
 <attribute name="ZKID" >10d</attribute>
 <text >Always assume ignorance before malice. 
 If someone does something wrong, don’t assume they purposely meant to hurt you. It’s just as likely (perhaps more so) that they simply made a mistake.
@@ -2255,12 +2397,38 @@ If someone does something wrong, don’t assume they purposely meant to hurt you
 </text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC76AQAAKwAAAAEAAADyAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNjcxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgQWx3YXlzIGFzc3VtZSBpZ25vcmFuY2UgYmVmb3JlIG1hbGljZS4gXApJZiBzb21lb25lIGRvZXMgc29tZXRoaW5nIHdyb25nLCBkb25cJzkydCBhc3N1bWUgdGhleSBwdXJwb3NlbHkgbWVhbnQgdG8gaHVydCB5b3UuIEl0XCc5MnMganVzdCBhcyBsaWtlbHkgKHBlcmhhcHMgbW9yZSBzbykgdGhhdCB0aGV5IHNpbXBseSBtYWRlIGEgbWlzdGFrZS5cClwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAR55tXbYBAAAAAAAAAAAAAA==</rtfd>
 </item>
+<item ID="1576137112" Creator="surval" proto="*zettel-prototype" >
+<attribute name="Associates" ></attribute>
+<attribute name="Badge" >label red</attribute>
+<attribute name="Created" >2019-12-11T23:51:37-08:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2019-12-11T23:53:54-08:00</attribute>
+<attribute name="NLTags" ></attribute>
+<attribute name="Name" >Effectiveness over Efficiency</attribute>
+<attribute name="SelectionCount" >13</attribute>
+<attribute name="Width" >4.416381838</attribute>
+<attribute name="Xpos" >-3.643465612</attribute>
+<attribute name="Ypos" >-11.02605325</attribute>
+<attribute name="ZKID" >10e</attribute>
+<text >Today we value productivity, efficiency. But sometimes, to be effective, you need to forgo efficiency. 
+eg. Deep work
+eg. Slow reading
+Eg. Reading less
+eg. Making notes, reading in depth
+eg. Thinking time
+eg. Doing things manually
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4zAgAAKwAAAAEAAAArAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYyNTExClxjb2NvYXRleHRzY2FsaW5nMFxjb2NvYXBsYXRmb3JtMHtcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBdmVuaXJOZXh0LVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMFxncmVlbjBcYmx1ZTA7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMFxjMFxjMDt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4IFxjZjIgVG9kYXkgd2UgdmFsdWUgcHJvZHVjdGl2aXR5LCBlZmZpY2llbmN5LiBCdXQgc29tZXRpbWVzLCB0byBiZSBlZmZlY3RpdmUsIHlvdSBuZWVkIHRvIGZvcmdvIGVmZmljaWVuY3kuIFwKZWcuIERlZXAgd29ya1wKZWcuIFNsb3cgcmVhZGluZ1wKRWcuIFJlYWRpbmcgbGVzc1wKZWcuIE1ha2luZyBub3RlcywgcmVhZGluZyBpbiBkZXB0aFwKZWcuIFRoaW5raW5nIHRpbWVcCmVnLiBEb2luZyB0aGluZ3MgbWFudWFsbHlcClwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAVOvyXbYBAAAAAAAAAAAAAA==</rtfd>
+</item>
 <item ID="1567465393" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T16:03:12-07:00</attribute>
+<attribute name="Created" >2019-09-02T16:03:12-08:00</attribute>
 <attribute name="Height" >1.751819455</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T16:04:13-07:00</attribute>
+<attribute name="Modified" >2019-09-02T16:04:13-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >First Give others an A</attribute>
 <attribute name="SelectionCount" >3</attribute>
@@ -2278,10 +2446,10 @@ An A is granted - need not be earned.
 </item>
 <item ID="1567465948" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T16:12:27-07:00</attribute>
+<attribute name="Created" >2019-09-02T16:12:27-08:00</attribute>
 <attribute name="Height" >2.031075022</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T16:14:23-07:00</attribute>
+<attribute name="Modified" >2019-09-02T16:14:23-08:00</attribute>
 <attribute name="Name" >Lean on the risk edge</attribute>
 <attribute name="SelectionCount" >2</attribute>
 <attribute name="Width" >3.482215444</attribute>
@@ -2302,10 +2470,10 @@ Constant learning is leaning on the risk edge. Sometimes you fall flat on your f
 </item>
 <item ID="1567467048" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-02T16:30:47-07:00</attribute>
-<attribute name="DominantLanguage" >de</attribute>
+<attribute name="Created" >2019-09-02T16:30:47-08:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-02T16:33:23-07:00</attribute>
+<attribute name="Modified" >2019-09-02T16:33:23-08:00</attribute>
+<attribute name="NLNames" >Adam Grant</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Adam Grant</attribute>
 <attribute name="SelectionCount" >3</attribute>
@@ -2325,12 +2493,12 @@ Usually, this is when he has given himself permission to work on something new a
 </item>
 <item ID="1568780294" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-17T21:18:13-07:00</attribute>
+<attribute name="Created" >2019-09-17T21:18:13-08:00</attribute>
 <attribute name="Height" >1.343964351</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-17T21:22:46-07:00</attribute>
+<attribute name="Modified" >2019-09-17T21:22:46-08:00</attribute>
 <attribute name="Name" >Productivity Shame</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >3.415692671</attribute>
 <attribute name="Xpos" >3.760586995</attribute>
 <attribute name="Ypos" >32.01158351</attribute>
@@ -2349,16 +2517,16 @@ https://hurryslowly.co/216-jocelyn-k-glei/
 </item>
 <item ID="1568780476" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-17T21:21:15-07:00</attribute>
+<attribute name="Created" >2019-09-17T21:21:15-08:00</attribute>
 <attribute name="Height" >1.343964351</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-17T21:24:13-07:00</attribute>
+<attribute name="Modified" >2019-09-17T21:24:13-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Late Stage Capitalism</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >3.81951733</attribute>
-<attribute name="Xpos" >8.504861056</attribute>
-<attribute name="Ypos" >32.01158352</attribute>
+<attribute name="Xpos" >9.902580147</attribute>
+<attribute name="Ypos" >32.0115835</attribute>
 <attribute name="ZKID" >12b1</attribute>
 <text >1/3 causes of Productivity Shame
 The idea that “Time is money” taken to the extreme.
@@ -2373,16 +2541,16 @@ Source: https://hurryslowly.co/216-jocelyn-k-glei/
 </item>
 <item ID="1568780660" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-17T21:24:19-07:00</attribute>
+<attribute name="Created" >2019-09-17T21:24:19-08:00</attribute>
 <attribute name="Height" >1.343964351</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-17T21:26:15-07:00</attribute>
+<attribute name="Modified" >2019-09-17T21:26:15-08:00</attribute>
 <attribute name="NLTags" ></attribute>
 <attribute name="Name" >Socially Induced Perfectionism</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >4.57327514</attribute>
-<attribute name="Xpos" >8.589542963</attribute>
-<attribute name="Ypos" >30.16761915</attribute>
+<attribute name="Xpos" >7.995222907</attribute>
+<attribute name="Ypos" >29.54303902</attribute>
 <attribute name="ZKID" >12b2</attribute>
 <text >Cause 2/3 of Productivity Shame
 Trying to meet the bar of what we think the society thinks the bar is.
@@ -2398,15 +2566,15 @@ Source: https://hurryslowly.co/216-jocelyn-k-glei/
 </item>
 <item ID="1568780792" Creator="surval" proto="*zettel-prototype" >
 <attribute name="Associates" ></attribute>
-<attribute name="Created" >2019-09-17T21:26:31-07:00</attribute>
+<attribute name="Created" >2019-09-17T21:26:31-08:00</attribute>
 <attribute name="Height" >1.700693001</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2019-09-17T21:27:40-07:00</attribute>
+<attribute name="Modified" >2019-09-17T21:27:40-08:00</attribute>
 <attribute name="Name" >Need for instant gratification</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >4.742639021</attribute>
-<attribute name="Xpos" >8.504861056</attribute>
-<attribute name="Ypos" >33.85554788</attribute>
+<attribute name="Xpos" >7.995222907</attribute>
+<attribute name="Ypos" >33.85554786</attribute>
 <attribute name="ZKID" >12b3</attribute>
 <text >Cause 3/3 of productivity shame
 
@@ -2531,6 +2699,21 @@ Source: https://hurryslowly.co/216-jocelyn-k-glei/
 <link name="Continuation" sourceid="1568780294" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1568780660" destcreator="surval" color="normal"  />
 <link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1568780792" destcreator="surval" color="normal"  />
 <link name="Continuation" sourceid="1568780294" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1568780792" destcreator="surval" color="normal"  />
+<link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1576137112" destcreator="surval" color="normal"  />
+<link name="Continuation" sourceid="1566700995" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1576137112" destcreator="surval" color="normal"  />
+<link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577467758" destcreator="surval" color="normal"  />
+<link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577467846" destcreator="surval" color="normal"  />
+<link name="Continuation" sourceid="1577467758" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577467846" destcreator="surval" color="normal"  />
+<link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577467937" destcreator="surval" color="normal"  />
+<link name="Continuation" sourceid="1577467758" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577467937" destcreator="surval" color="normal"  />
+<link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577467994" destcreator="surval" color="normal"  />
+<link name="Continuation" sourceid="1566702661" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577467994" destcreator="surval" color="normal"  />
+<link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577468131" destcreator="surval" color="normal"  />
+<link name="Continuation" sourceid="1566702661" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577468131" destcreator="surval" color="normal"  />
+<link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577468252" destcreator="surval" color="normal"  />
+<link name="Continuation" sourceid="1566702661" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577468252" destcreator="surval" color="normal"  />
+<link name="prototype" sourceid="1565296591" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577468435" destcreator="surval" color="normal"  />
+<link name="Continuation" sourceid="1566702444" sourcecreator="surval" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1577468435" destcreator="surval" color="normal"  />
 </links>
 <macros >
 </macros>
@@ -2688,10 +2871,10 @@ Source: https://hurryslowly.co/216-jocelyn-k-glei/
 <LastVersionString > </LastVersionString>
 </preferences>
 <windows >
-<window bounds="Rect[ 0 80 1680 1027]" ruler="0" >
+<window bounds="Rect[ 0 69 1680 1016]" ruler="0" >
 <tabs >
-<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="29.0909" ID="1565296361" scrollX="516" scrollY="1599" selection="" expanded="1565299202 " textTab="0" splitRatio="0.310465" spacing="0.35" aspect="2" hyperbolicScale="1" path="" focus="1565328796" hasBorder="0" isVertical="0" isCentered="1" lineType="0" itemWidth="220" xspace="10" yspace="10" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100" treemapDepth="0" attribute="" container="" bins="10" sortAttribute="" sortDirections="0" summaryAttribute="" summaryMethod="" query="" queryLabel="" action="" actionLabel="" showFilter="0" filterString="" filterName=""  />
-<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="16.8109" ID="1565299202" scrollX="0" scrollY="0" selection="1565296591 " expanded="1565299202 " textTab="0" splitRatio="0.0119048" spacing="0.35" aspect="2" hyperbolicScale="1" path="" focus="1565302532" hasBorder="0" isVertical="0" isCentered="1" lineType="0" itemWidth="220" xspace="10" yspace="10" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100" treemapDepth="0" attribute="" container="" bins="10" sortAttribute="" sortDirections="0" summaryAttribute="" summaryMethod="" query="" queryLabel="" action="" actionLabel="" showFilter="0" filterString="" filterName=""  />
+<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="29.0909" ID="1565296361" scrollX="667" scrollY="1830" selection="1577468435 " expanded="1565299202 " textTab="0" splitRatio="0.310465" spacing="0.35" aspect="2" hyperbolicScale="1" path="" focus="1565328796" hasBorder="0" isVertical="0" isCentered="1" lineType="0" itemWidth="220" xspace="10" yspace="10" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100" treemapDepth="0" attribute="" container="" bins="10" sortAttribute="" sortDirections="0" summaryAttribute="" summaryMethod="" query="" queryLabel="" action="" actionLabel="" showFilter="0" filterString="" filterName=""  />
+<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="16.8109" ID="1565296361" scrollX="0" scrollY="0" selection="1565299202 " expanded="1565299202 " textTab="0" splitRatio="0.0119048" spacing="0.35" aspect="2" hyperbolicScale="1" path="" focus="1565302532" hasBorder="0" isVertical="0" isCentered="1" lineType="0" itemWidth="220" xspace="10" yspace="10" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100" treemapDepth="0" attribute="" container="" bins="10" sortAttribute="" sortDirections="0" summaryAttribute="" summaryMethod="" query="" queryLabel="" action="" actionLabel="" showFilter="0" filterString="" filterName=""  />
 </tabs>
 </window>
 </windows>
@@ -2702,5 +2885,5 @@ Source: https://hurryslowly.co/216-jocelyn-k-glei/
 <filters >
 </filters>
 <preview >
-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essNtT7YoL8ASnD95juV78xt6GoK5Jv/AyMd5dYKZW5kc3RyZWFtCmVuZG9iago1IDAgb2JqCjkwNzEKZW5kb2JqCjIgMCBvYmoKPDwgL1R5cGUgL1BhZ2UgL1BhcmVudCAzIDAgUiAvUmVzb3VyY2VzIDYgMCBSIC9Db250ZW50cyA0IDAgUiAvTWVkaWFCb3ggWzAgMCAxMTU2LjUgODk1XQo+PgplbmRvYmoKNiAwIG9iago8PCAvUHJvY1NldCBbIC9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUkgXSAvQ29sb3JTcGFjZSA8PCAvQ3MxIDcgMCBSCj4+IC9FeHRHU3RhdGUgPDwgL0dzOCAxMiAwIFIgL0dzNSAxMyAwIFIgL0dzNiAxNCAwIFIgL0dzNyAxNSAwIFIgL0dzOSAxNiAwIFIKL0dzMiAxNyAwIFIgL0dzMTAgMTggMCBSIC9HczMgMTkgMCBSIC9HczQgMjAgMCBSIC9HczEgMjEgMCBSID4+IC9Gb250IDw8IC9UYzEKOCAwIFIgL1RUMSAxMSAwIFIgPj4gL1hPYmplY3QgPDwgL0ltMSA5IDAgUiA+PiA+PgplbmRvYmoKOSAwIG9iago8PCAvTGVuZ3RoIDEwIDAgUiAvVHlwZSAvWE9iamVjdCAvU3VidHlwZSAvSW1hZ2UgL1dpZHRoIDMyIC9IZWlnaHQgMzIgL0ludGVycG9sYXRlCnRydWUgL0NvbG9yU3BhY2UgMjIgMCBSIC9JbnRlbnQgL1BlcmNlcHR1YWwgL1NNYXNrIDIzIDAgUiAvQml0c1BlckNvbXBvbmVudAo4IC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AZWWe1DUVRTHj/IYKzUmTRAFxBegSLgqBqwWkptPIh0rxkKTKTPzCSVpMFhkkNk49odp+cgExMYXL1ERFTAeikgiBoLyUmR5iWY69od97q5ujCgtzBnm3nO/3885997fb3cfPDDrb4JIsIhRyoCpWbZORSIS0U3GiDwrkjh8cGHkmggLIQojVjMlyRIC/jrFPHVxukjRV1H5K5cmONk35WbdLy+oTT1Uk3zgfll+U142yfyw5cUx0XO6yJ8q8q1191CRLbYv3C3NvVd09J9r5Xez9txJ+eHvU3EEg7s5v5Fk6d6lfGSIsQSYV2iRSMPxtJtFeS0FOXfSt/61L7aTuHNka3N+NmIs8zrlc4wjReghpru0Ze69FRd1OzH6dnzU/0di9K34qLbMRIzYgTzxRuxFkrw8S2LWVidsv536Y9uOVbd2diFup22p3rOzJHYtEFAdL5WiGTN0zfExzT+Ht25e0rala4GlZVt4S0Jsxkxdx/4dDY93+iTfxs2hjRtCWjaG3NwU0mZ2IMaCsXFzWLq/Ly8IQNMWeIz3DnMs3xjdenhX/TfzGtYFNccGta4PuvmduYEYi35dEHYgoACCNZZgO/H2feo2LKsOD7y2JvBGZGDj2sCW6MDWr80NxI1fKiP2mvDAuu+XATSdEoPIblIaNvfqcl1NqO76Z7qGz3VNX+haIs2Npghdw2plrA3VASn99F2ARj53vb6HRd77s2tiFlUs1FYt1tYu1V5foW0I0zat0jabF/owbf0KZcReuVALCiBY4BNFkseNKFsxq3SupixYU7lAU/WBpu4jTf1ijX6ppmmZZ+PHbo0fDtGHOOnnD9DP668PttUH2+nn2+sXOJJnVb/Es/4TZcGIHYhCrZwFFjhXwAubPcXzwizX0jmuZe+4VrztfGW2XdUbvWtmWF+bLvUz5UbAk4MlBDVT5Oo068qZNpfftC97axgQUDlTR4M13m9YN8kO8Cn0tyua0LPY26LER/6cKJf95Opk5a2bJtdnPF4FMkmWFHyyXJ6kLBjPj5dz3j0K/frlBPiAhc+HRuooh3w/h9/dpcBTCsdK8Xi56PuwxJXXpEontVMVilZhEgyYkqx+XRDQCXAsxS/LubEKAirfb2CqhwNwL5Ffe1tmDJHsEZI7Ss6MVhqUJb5yaaKUvyoV/gpCFWimYEqy0l8JjPA/gI9T9lwPhQIIFjhb4EXY/bxllrt1DiU8HpUYLxd8pFSr7EBosmKSAhIMmCryK0rAsbBlugKe5yE5IwVUnI2l6f3ieyTJuWemi8UpF7VKiYLRUjhGznsJXWG/qJVLE9R2qEUwYGokI0DGqWIxwk+5ygkXiyTnXmBpnrdgk4WkOFoddZbMoaJKGA4q31POalRXRV6qPTgXvNWOVHirKUnICJAh5mwxAgcCKsXJCqzxFXMSCeMjopfKHx8qJ10k201Ou6t+MLLrs2MUh+MtMgQDpmzwjEbdJjLEWDBiBwIKIFjj82ncxS895LCDHBmkrubEMNUJ14SRxlShlxTKFExJsqTIhraxYDw6SA47Cihj5yY+XzoUTbaXtIGS7iTHDBs5MVwdV5abInAvpwl3Q4xUU5IsIUBG28cGK2Oag4KAcmvXPFUcDEe03VItpQx4uBGq0BLnSW8nh6vtQyMYMCXJEgJk7Jq2MWIHwuEANDXffrDDWg7aSnJ/SR2gmqElvBwp7WUQQwwxWE1JsmTsGTGWQ7aCvT2t43iblSTayF4bOdBPkvqrzapCA1UtOjQFU5Ispdgr2cF+yoIRe0dm+wwPLcFHEzvd31dVYTuH7BRElTOEcUySJQTIEGMxetvTnjbm9ndYSUJv2f2c6mpfH9nXV/a/+F8wJckSAmQcy2MPzNPIpjw/LPma5ncs97XneYnrKbueUUCCAVOS262UABlik7GrA35e/mQh/IcDkPAzjLcZkl2lddSz8b6PHrb3RAijhqQ5Z/IvGvZrQAplbmRzdHJlYW0KZW5kb2JqCjEwIDAgb2JqCjE0NzgKZW5kb2JqCjIzIDAgb2JqCjw8IC9MZW5ndGggMjQgMCBSIC9UeXBlIC9YT2JqZWN0IC9TdWJ0eXBlIC9JbWFnZSAvV2lkdGggMzIgL0hlaWdodCAzMiAvQ29sb3JTcGFjZQovRGV2aWNlR3JheSAvSW50ZXJwb2xhdGUgdHJ1ZSAvQml0c1BlckNvbXBvbmVudCA4IC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AX3TMWvCQBQH8Jc4KeQDZHQKIlK6uIggGfwAhSzB1U5CoAqCsxTpJog4OgRc/Qx10I8gOKhLkQ5i7aZJnhevTU7NuzdcHu/3Jxe4C4BQpgPgmMJAaDNuSd+h6+JOL7kZAf7aOuIPXos9Xu/c/hyuOPJ1NZxZYuRDRN6/R56uWItHX1iVNI8Yj8gnBneNcu3q2Q7lnSwLFAOKEYMigLKlfaswn9I+VcCY04w4N8qezL0y9GTeA+jLvA9NGSM2zYMscDCh4NMBvwDA7gVddVA3tCJuVMhNyA38SY4dkEJ+4a8aHvATvcFz6PnxMvGIg+U4Hzqr76RXfHEL13WSr2N32oP7xKDN/rW4tNNt4MTvZhwYdav7/8i+2h3FEnWN41vNO7+0jo1odNOkdADbBtBTwvgC5Om/HwplbmRzdHJlYW0KZW5kb2JqCjI0IDAgb2JqCjMxMQplbmRvYmoKMTIgMCBvYmoKPDwgL1R5cGUgL0V4dEdTdGF0ZSAvQUFQTDpBQSBmYWxzZSA+PgplbmRvYmoKMTMgMCBvYmoKPDwgL1R5cGUgL0V4dEdTdGF0ZSAvY2EgMSA+PgplbmRvYmoKMTQgMCBvYmoKPDwgL1R5cGUgL0V4dEdTdGF0ZSAvQ0EgMSA+PgplbmRvYmoKMTUgMCBvYmoKPDwgL1R5cGUgL0V4dEdTdGF0ZSAvQ0EgMC4zMzMzID4+CmVuZG9iagoxNiAwIG9iago8PCAvVHlwZSAvRXh0R1N0YXRlIC9jYSAwLjAxID4+CmVuZG9iagoxNyAwIG9iago8PCAvVHlwZSAvRXh0R1N0YXRlIC9CTSAvTXVsdGlwbHkgPj4KZW5kb2JqCjE4IDAgb2JqCjw8IC9UeXBlIC9FeHRHU3RhdGUgL0FBUEw6QUEgdHJ1ZSA+PgplbmRvYmoKMTkgMCBvYmoKPDwgL1R5cGUgL0V4dEdTdGF0ZSAvY2EgMC41ID4+CmVuZG9iagoyMCAwIG9iago8PCAvVHlwZSAvRXh0R1N0YXRlIC9CTSAvTm9ybWFsID4+CmVuZG9iagoyMSAwIG9iago8PCAvVHlwZSAvRXh0R1N0YXRlIC9DQSAwLjUgPj4KZW5kb2JqCjI1IDAgb2JqCjw8IC9MZW5ndGggMjYgMCBSIC9OIDMgL0FsdGVybmF0ZSAvRGV2aWNlUkdCIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AZ2Wd1RT2RaHz703vdASIiAl9Bp6CSDSO0gVBFGJSYBQAoaEJnZEBUYUESlWZFTAAUeHImNFFAuDgmLXCfIQUMbBUURF5d2MawnvrTXz3pr9x1nf2ee319ln733XugBQ/IIEwnRYAYA0oVgU7uvBXBITy8T3AhgQAQ5YAcDhZmYER/hEAtT8vT2ZmahIxrP27i6AZLvbLL9QJnPW/3+RIjdDJAYACkXVNjx+JhflApRTs8UZMv8EyvSVKTKGMTIWoQmirCLjxK9s9qfmK7vJmJcm5KEaWc4ZvDSejLtQ3pol4aOMBKFcmCXgZ6N8B2W9VEmaAOX3KNPT+JxMADAUmV/M5yahbIkyRRQZ7onyAgAIlMQ5vHIOi/k5aJ4AeKZn5IoEiUliphHXmGnl6Mhm+vGzU/liMSuUw03hiHhMz/S0DI4wF4Cvb5ZFASVZbZloke2tHO3tWdbmaPm/2d8eflP9Pch6+1XxJuzPnkGMnlnfbOysL70WAPYkWpsds76VVQC0bQZA5eGsT+8gAPIFALTenPMehmxeksTiDCcLi+zsbHMBn2suK+g3+5+Cb8q/hjn3mcvu+1Y7phc/gSNJFTNlReWmp6ZLRMzMDA6Xz2T99xD/48A5ac3Jwyycn8AX8YXoVVHolAmEiWi7hTyBWJAuZAqEf9Xhfxg2JwcZfp1rFGh1XwB9hTlQuEkHyG89AEMjAyRuP3oCfetbEDEKyL68aK2Rr3OPMnr+5/ofC1yKbuFMQSJT5vYMj2RyJaIsGaPfhGzBAhKQB3SgCjSBLjACLGANHIAzcAPeIACEgEgQA5YDLkgCaUAEskE+2AAKQTHYAXaDanAA1IF60AROgjZwBlwEV8ANcAsMgEdACobBSzAB3oFpCILwEBWiQaqQFqQPmULWEBtaCHlDQVA4FAPFQ4mQEJJA+dAmqBgqg6qhQ1A99CN0GroIXYP6oAfQIDQG/QF9hBGYAtNhDdgAtoDZsDscCEfCy+BEeBWcBxfA2+FKuBY+DrfCF+Eb8AAshV/CkwhAyAgD0UZYCBvxREKQWCQBESFrkSKkAqlFmpAOpBu5jUiRceQDBoehYZgYFsYZ44dZjOFiVmHWYkow1ZhjmFZMF+Y2ZhAzgfmCpWLVsaZYJ6w/dgk2EZuNLcRWYI9gW7CXsQPYYew7HA7HwBniHHB+uBhcMm41rgS3D9eMu4Drww3hJvF4vCreFO+CD8Fz8GJ8Ib4Kfxx/Ht+PH8a/J5AJWgRrgg8hliAkbCRUEBoI5wj9hBHCNFGBqE90IoYQecRcYimxjthBvEkcJk6TFEmGJBdSJCmZtIFUSWoiXSY9Jr0hk8k6ZEdyGFlAXk+uJJ8gXyUPkj9QlCgmFE9KHEVC2U45SrlAeUB5Q6VSDahu1FiqmLqdWk+9RH1KfS9HkzOX85fjya2Tq5FrleuXeyVPlNeXd5dfLp8nXyF/Sv6m/LgCUcFAwVOBo7BWoUbhtMI9hUlFmqKVYohimmKJYoPiNcVRJbySgZK3Ek+pQOmw0iWlIRpC06V50ri0TbQ62mXaMB1HN6T705PpxfQf6L30CWUlZVvlKOUc5Rrls8pSBsIwYPgzUhmljJOMu4yP8zTmuc/jz9s2r2le/7wplfkqbip8lSKVZpUBlY+qTFVv1RTVnaptqk/UMGomamFq2Wr71S6rjc+nz3eez51fNP/k/IfqsLqJerj6avXD6j3qkxqaGr4aGRpVGpc0xjUZmm6ayZrlmuc0x7RoWgu1BFrlWue1XjCVme7MVGYls4s5oa2u7act0T6k3as9rWOos1hno06zzhNdki5bN0G3XLdTd0JPSy9YL1+vUe+hPlGfrZ+kv0e/W3/KwNAg2mCLQZvBqKGKob9hnmGj4WMjqpGr0SqjWqM7xjhjtnGK8T7jWyawiZ1JkkmNyU1T2NTeVGC6z7TPDGvmaCY0qzW7x6Kw3FlZrEbWoDnDPMh8o3mb+SsLPYtYi50W3RZfLO0sUy3rLB9ZKVkFWG206rD6w9rEmmtdY33HhmrjY7POpt3mta2pLd92v+19O5pdsN0Wu067z/YO9iL7JvsxBz2HeIe9DvfYdHYou4R91RHr6OG4zvGM4wcneyex00mn351ZzinODc6jCwwX8BfULRhy0XHhuBxykS5kLoxfeHCh1FXbleNa6/rMTdeN53bEbcTd2D3Z/bj7Kw9LD5FHi8eUp5PnGs8LXoiXr1eRV6+3kvdi72rvpz46Pok+jT4Tvna+q30v+GH9Av12+t3z1/Dn+tf7TwQ4BKwJ6AqkBEYEVgc+CzIJEgV1BMPBAcG7gh8v0l8kXNQWAkL8Q3aFPAk1DF0V+nMYLiw0rCbsebhVeH54dwQtYkVEQ8S7SI/I0shHi40WSxZ3RslHxUXVR01Fe0WXRUuXWCxZs+RGjFqMIKY9Fh8bFXskdnKp99LdS4fj7OIK4+4uM1yWs+zacrXlqcvPrpBfwVlxKh4bHx3fEP+JE8Kp5Uyu9F+5d+UE15O7h/uS58Yr543xXfhl/JEEl4SyhNFEl8RdiWNJrkkVSeMCT0G14HWyX/KB5KmUkJSjKTOp0anNaYS0+LTTQiVhirArXTM9J70vwzSjMEO6ymnV7lUTokDRkUwoc1lmu5iO/kz1SIwkmyWDWQuzarLeZ0dln8pRzBHm9OSa5G7LHcnzyft+NWY1d3Vnvnb+hvzBNe5rDq2F1q5c27lOd13BuuH1vuuPbSBtSNnwy0bLjWUb326K3tRRoFGwvmBos+/mxkK5QlHhvS3OWw5sxWwVbO3dZrOtatuXIl7R9WLL4oriTyXckuvfWX1X+d3M9oTtvaX2pft34HYId9zd6brzWJliWV7Z0K7gXa3lzPKi8re7V+y+VmFbcWAPaY9kj7QyqLK9Sq9qR9Wn6qTqgRqPmua96nu37Z3ax9vXv99tf9MBjQPFBz4eFBy8f8j3UGutQW3FYdzhrMPP66Lqur9nf19/RO1I8ZHPR4VHpcfCj3XVO9TXN6g3lDbCjZLGseNxx2/94PVDexOr6VAzo7n4BDghOfHix/gf754MPNl5in2q6Sf9n/a20FqKWqHW3NaJtqQ2aXtMe9/pgNOdHc4dLT+b/3z0jPaZmrPKZ0vPkc4VnJs5n3d+8kLGhfGLiReHOld0Prq05NKdrrCu3suBl69e8blyqdu9+/xVl6tnrjldO32dfb3thv2N1h67npZf7H5p6bXvbb3pcLP9luOtjr4Ffef6Xfsv3va6feWO/50bA4sG+u4uvnv/Xtw96X3e/dEHqQ9eP8x6OP1o/WPs46InCk8qnqo/rf3V+Ndmqb307KDXYM+ziGePhrhDL/+V+a9PwwXPqc8rRrRG6ketR8+M+YzderH0xfDLjJfT44W/Kf6295XRq59+d/u9Z2LJxPBr0euZP0reqL45+tb2bedk6OTTd2nvpqeK3qu+P/aB/aH7Y/THkensT/hPlZ+NP3d8CfzyeCZtZubf94Tz+wplbmRzdHJlYW0KZW5kb2JqCjI2IDAgb2JqCjI2MTIKZW5kb2JqCjcgMCBvYmoKWyAvSUNDQmFzZWQgMjUgMCBSIF0KZW5kb2JqCjI3IDAgb2JqCjw8IC9MZW5ndGggMjggMCBSIC9OIDMgL0FsdGVybmF0ZSAvRGV2aWNlUkdCIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AYWWeTyV2R/Hv89dXde+7y4p+5K9xd5YCiFLJFmuLcsVN1IKNSnVjJiWEY2lGRENNUbIGBqVFimhvSw1lmRJItT9nedeqvljfnNer+d1Pvd7z/k+z3l/P+e8DoCATFBcXDQBAGJi2fEeDraMjb5+DGoXUEAGJIAfjINCEuJs3Nyc0ZB/ae+7AcP/uq+L5/K+ZWQj/iNVccKlV8J/YKDpXyYthgXj0QsBMAYKSITztDGug3naEddJ7Dg2GuOP65CIICbScUjrxHt62CGdj7RQOE9X4DqYpxtwnRgSjs+9DUAUi2VGxgKQegAolszQhBAAOgONKQiJi0dj6E1I68bEsFB++jjSGjgL1KO23hxA8yYA4dGXWBrK1VQCIPPpS0zdAECyHOCS65fYpAeXDybVnhBmZMhNhwnYApCfcziTywCoOQAfszmcuWIO5+MZ9J1PUd7okO3xidyx6OOxNoD/+s1b58IMIioIBiQKH7+AkIiouKSUjKy8gpKyiqra0mUamlo6unr6yw2NjE3NzFesXLXa0sraxtZuzTf2Do5Oa9c5u7iud3P32ODp5e2DFrHJf/PmgC2BQcEhzNCw8IjIrVFR0TGxrLht8Qns7YlJO3Yk79yVsntPalr63n37vt2fceBg5qHDR458933W0eycH44dP3Hyx9zcU3n5p38qKCwqPvPzz7+UnC0tO1deXnH+18qqCxcv/lb9e82l2tq6+ssNf/zR+GdTc/OVv1quXrt2vfXGzZu3bre13Wlvv3uvo+N+Z2dXd/eDh48ePX7y5Omz589f9PT29vW/fPXq74HBoeHXI29Gx8Yn3r6bej/9YXbu4ycOEMkIAF0QJyAhKS0jhyNgqCzhMdDW0dM3QBBMFiBYWFr9GwQehUUICxRwCIsUEAYuBR6GvVwMPA48DIsccAyLHBAGLgccA87hawyfKVxFFBCGWwjDZwpdXQsQFhjgCP4ewBHwCEy+m5qemZ1H6yeQyBQqjZ8uICQsIiomISnFZaCIIKjiENSRExYpGH/B8LUbuHbg+YFrCK4jcEsE4DS4nsBxLLoCtwXuC9wYC0j28JyBG+Mzkc/OQNbgOYNnja+RVH1GwjVGI46E6wvcFlwcyBP3kSOQIXA39PT2vXw1MIgYjE1MTk1/mEPrB95+x/cExRSgKAPAmwTgewkgSx5AXQMdJzIAboIAniuAYGT0+cH3D34o4ruIAER0GtJBBKRAEZaCHpiBLbiAL4RCOhyFAqiCZngFMxgdM8HWYUHYUawUa8amCMIEbQKTkE4oIDwlKhAtiFuIZ4jDJGGSMSmV1EZWJNuT48gtFHkKm1JEaafqUo9QR/k8+GppDJon7RDtPT+Tv4vuQG8QMBQoF1wmWCykIlQkrCZcJqIvUitqJ9outllsVDxNQlKiXNJO8plUsrS0dI3MRpl52SI5R/l8BSeFGcVSpU3KwspXGbtVzFTeqlYtYakZqE0u26NuryGi8VSzTCtZe62Ogs6E7nW9Qv1kAy9DMcNJoy7jOpNC0wNm28z9VzitNF+lYSFkSbScs3pnPWozbDtoN7hmyH7CYdqRs5a2TsJZxcXA1Xq9h1uY+y6PnA3lXr3enI1KvlZ+QZv2+5dv7giYC1wa5BFSyewJEwt3iEiJrN76JoYZW8zq3aYaH5pQxh5LSt1xY6fkrpCUi3uIaWXpnH3e31Zm0A5eOaRyOP1If1ZFtljOrh9eHnf7UTs3L08gP7Vga2Fvsd8v7iXtZXfK3Ss6K3suRFbvqaHXadbXN7j8mdQs1GJz9dn1XTfrb29q49xb2zHRmdf9zaOCJ65POc8v9DD7ZPvvvjo4YDM4P1w3kjhqOiY1Nj1RN5kyZft+6TTfzN3ZU3Op86GflnOQf7iNwK2+GMij2hvAalgLfhAFuyEHSqERumEcE8C0MEcsHMvEzmMd2AeCGsGVkEwoITwg0oiriSziWWIPSZ7kQzpO6iLLkwPIJeRRijklg9JNVaVup97kU+HbzfeEZkY7Tpvj9+e/StemnxAgC2wXGBDcJHhPyFGoWdhCuFnEWqRV1Em0S8xXbFA8WYIuUYiq/kLqkLSe9AOZ/bJmskNyp+V9FIQV/lJMV7JUmlduZGSouKsqqw4sqVXLWspcZqEuov5G455mhdZJ7XSdSF1/vbX6lgbmy40NDY2WG5uZWJu6mAWaJ6zIWJm7qnr1I4uPVgxrRxu2baHd/W+k7F0cDjg2OPWsIzrLuji6Rq4/4nbO/eEGiqeFF8s7z6fTl+ZnvWm3f1MAbYtHYE7QgxBtZnro9XC5iO2RHVFq0ZkxQyzHuOp48YQU9utEv6TWZNOd51PUduenKqTl7pXY991+vowfDspnFh5WOVL9vVPW4+zwnPFjaSeUT7bkZudFnXYoUC+iFc/+PFnyrLTz3IOKG79eq7p/sa36Rk1rbV/964bxxpdN/VdGW8auvWntvzl6+/md9rtXOmo6v+9Oe+jzWO/J/LOWF0d7XfsFXzb+zRzgDGW9Vh45P6oxljM+99Z/8uK72fe6034zBz/kzZbM/TSf8zHhE2uh/hiqviBIgyqqvQ1sgAjYAyfQjr8Nw2i/62HuWCJ2GruOTRJUCB6EfYTfCcNENeJmYi6xmySNan6K1EfWJieQr1DEKcGUS1Rhahi1iU+JL5Wvl2ZP+5Vfnv8A/wd6DL1PwFegQ9AV1dtL6LFwoPCIyA5RimiumK5Yq3ig+CdUbV8pEal70kdlPGUZsiNyjfLZCqGK5kriSqPKdxi/qxSpHlrCVmOhOgeou2t4afpobdGO0UnSzdL7Sf+ywePl80bKxk4mbNMys54V0itdV2Wu7rCUtdpiXWUzbeeyptKe6hDuWOc0sk7B2cplh2vJ+g53oofZhmTPGq8pH62N23wr/Sb9LTZ/F9AfqB2UFHybqR+aGtYZYRJ5autYtF9MM0s1LmfbdEIwuyvRIak2WXNnYYrc7mOpkmnH9orsy9xPzsg+KJdZgKr72z+q+1uuyamifMXTpQXmhXeKnc+8/uXwWYXSK+cCK2jnqyu3XCBcPFsdVSN9qaWOfVmpob4xtkm6uf6v4KvUaxWtdjce3Yptw+4cuku9l32f0nm0i/Mg6mHX49VPip4Rn7u8ONbT02fUH/jy+Kv2AfKg1pDTcNjr1JGTb8pHa8YujVdPXHhbNlnwLmMq+v366eUzwjMjHy7PHp7znleZH/pY9akMrz/vjsg9BaSd7dYwQljRrPhIJothFxQdGRwfxGQtnBHIIM5gB2uAASHAgmj0xEMkMFHPQPEgFImEYBQL4sbQrP/It5j3//fs0B3o3gpgx4pLjo8Mj2AzbNANPJRhx4qJ284OjddhOMWG6OkwDA0MjPBxvLstrigiAPk6uKo368G7f7T/AahQn8oKZW5kc3RyZWFtCmVuZG9iagoyOCAwIG9iagoyNTQxCmVuZG9iagoyMiAwIG9iagpbIC9JQ0NCYXNlZCAyNyAwIFIgXQplbmRvYmoKMyAwIG9iago8PCAvVHlwZSAvUGFnZXMgL01lZGlhQm94IFswIDAgMTE1Ni41IDg5NV0gL0NvdW50IDEgL0tpZHMgWyAyIDAgUiBdID4+CmVuZG9iagoyOSAwIG9iago8PCAvVHlwZSAvQ2F0YWxvZyAvUGFnZXMgMyAwIFIgL1ZlcnNpb24gLzEuNCA+PgplbmRvYmoKMTEgMCBvYmoKPDwgL1R5cGUgL0ZvbnQgL1N1YnR5cGUgL1RydWVUeXBlIC9CYXNlRm9udCAvT0FBRktNK0F2ZW5pck5leHQtUmVndWxhciAvRm9udERlc2NyaXB0b3IKMzAgMCBSIC9FbmNvZGluZyAvTWFjUm9tYW5FbmNvZGluZyAvRmlyc3RDaGFyIDMyIC9MYXN0Q2hhciAyMTMgL1dpZHRocyBbIDI1MAowIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNzAwIDAgMCAwCjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA1NzIgMjk1IDAKMCAwIDAgMCAwIDg4MyA1ODEgNjExIDAgMCAzNjAgNDQ0IDAgMCAwIDc0NiAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMAowIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwCjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAKMCAwIDAgMCAyMjIgXSA+PgplbmRvYmoKMzAgMCBvYmoKPDwgL1R5cGUgL0ZvbnREZXNjcmlwdG9yIC9Gb250TmFtZSAvT0FBRktNK0F2ZW5pck5leHQtUmVndWxhciAvRmxhZ3MgMzIgL0ZvbnRCQm94ClstMzk0IC00MTEgMTMwOSAxMTkyXSAvSXRhbGljQW5nbGUgMCAvQXNjZW50IDEwMDAgL0Rlc2NlbnQgLTM2NiAvQ2FwSGVpZ2h0CjcwOCAvU3RlbVYgNzIgL1hIZWlnaHQgNDY4IC9TdGVtSCA2NCAvQXZnV2lkdGggNDU1IC9NYXhXaWR0aCAxNTY5IC9Gb250RmlsZTIKMzEgMCBSID4+CmVuZG9iagozMSAwIG9iago8PCAvTGVuZ3RoIDMyIDAgUiAvTGVuZ3RoMSA0NjMyIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AdVXS2wb1xW9b4afkUSJIjkSyaH404ikPhQpiZIoG6qiH2XZhm3Zcm1SkJsoMm3JsBzXH1VG7EIFnDYViqYIgtpt3F3Ruju2aFNaCiAvgjQFgkALJ4ULI2gXNVK3QLtwFy1quefNDCnG3gXZdIjDue/OzON7591z5vHShct5stEqiTQ8vzR3nrRD/B4Ruz6/fCmkt9mHOCunzp9eMtqf4frF02evnNLb5jiR7fpCfu6k3qb/4ty/gIRxfy/OLQtLl1b0tjiLc9fZV+aN6+Z6tJWluRXj9+kB2qFzc0t5/X7H33GOn3/l4iWjXcB58PyFvHE/y6J9Qb9W8c0Q2+gsWbUcbxFVEwkkxsoZgeiN5a1rL9oH/0VeEfMiujvz40V+/vjqgVvby9t5s990G80qPKgf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MW4s4Cj69DF7Axwl2bd0fw7qaghCDcGSGoIogyDUEIQaglBDEGoIQg1BqCEINQShhiDUEIQaglBDUCsaApfcg7rAYAxxzNiDaHqQoAcJepCgBwl6kKAHCXqQoAcJepCgBwl6kKAHCXqQSnqQoAdJ00MQRVmnKa677FpxvhzxiuVw8YRLV0UcD3yZexMX+lNKqlBQYQpUoUAVClShQBUKVKFAFQpUoUAVClShQBUKVKGUVKFAFYqmCmNv0iA3umF6mkSisXQA75wh7E6isQS2sXyP0uhm0/avxJwtTY7+3dOHgj0vhPpOhvqdE+2NrQHnnrGGZKvSlBwMdc+6Wd4fkZxNrrBqc4ykW9OqPZ5sDbZLctAdidSb7f54uCUVro+38neLgo3kFv7h2rEGWDq+azU2qTsu89wL+7n3RBVnvKri/VzLE7X6+1ngf2ugiHW+1TEimxF1dftYyqV9RFX7zH9d+OboqnB+8q1914RX973F7m1fZ1c1xNmr269hrHzc7ew+/Rr7bZGi/E8B/wtQ2meZy5Wxs//GO0VNp+Z3je1h9//G987a8fQ31KNHz3zb0BbxP2MShT9Fh+kIfRW1OoNl5AfDa0r/h2mBSOjQyMjE/gMdI8v5c4sXDuZXLnUeyZ++fHbuAv0PurIlGwplbmRzdHJlYW0KZW5kb2JqCjMyIDAgb2JqCjI2MjQKZW5kb2JqCjggMCBvYmoKPDwgL1R5cGUgL0ZvbnQgL1N1YnR5cGUgL1R5cGUxIC9CYXNlRm9udCAvU1lVTUlHK0lkZWFsU2Fuc1NTbS1Cb29rIC9Gb250RGVzY3JpcHRvcgozMyAwIFIgL0VuY29kaW5nIC9NYWNSb21hbkVuY29kaW5nIC9GaXJzdENoYXIgMzIgL0xhc3RDaGFyIDEyMSAvV2lkdGhzIFsgMjQ2CjAgMCAwIDAgMCAwIDIxMyAwIDAgMCAwIDAgNTAzIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA0NzcgMCAwIDY1NQo3MTcgNzcwIDU3OSA1NTkgMCA4MTcgMzQyIDAgMCA1NjYgOTI4IDgyNyA4NTQgNjA0IDg1OCA2NjcgNTYwIDY3NSAwIDAgMTAzOAowIDAgMCAwIDAgMCAwIDAgMCA1NTUgNjI3IDU0OSA2MjYgNTc0IDM4MiA1NDMgNjIyIDI3OCAyNzggNTM3IDI3OCA5MjcgNjIyCjYxNyA2MjcgNjI3IDM5MiA0NzYgNDAyIDYyMyA1NDkgNzk5IDAgNTM0IF0gPj4KZW5kb2JqCjMzIDAgb2JqCjw8IC9UeXBlIC9Gb250RGVzY3JpcHRvciAvRm9udE5hbWUgL1NZVU1JRytJZGVhbFNhbnNTU20tQm9vayAvRmxhZ3MgMzIgL0ZvbnRCQm94ClstMTYyIC0yODUgMTMwMCAxMTk3XSAvSXRhbGljQW5nbGUgMCAvQXNjZW50IDk2MCAvRGVzY2VudCAtMjQwIC9DYXBIZWlnaHQKNzAzIC9TdGVtViA5NiAvWEhlaWdodCA1MDUgL1N0ZW1IIDgzIC9BdmdXaWR0aCAyNzggL01heFdpZHRoIDE1MjQgL0ZvbnRGaWxlMwozNCAwIFIgPj4KZW5kb2JqCjM0IDAgb2JqCjw8IC9MZW5ndGggMzUgMCBSIC9TdWJ0eXBlIC9UeXBlMUMgL0ZpbHRlciAvRmxhdGVEZWNvZGUgPj4Kc3RyZWFtCngBjZl5WBTH9vd7GHp6potMEjptYNrucUET45KIcY8rKosgCqgRXFDZZF9nQEBRkdl6AHcQkX3fEddgXK/7FuMaAySaxCVqlmtSTYrcvDWa3Nz7/n7P8778M/NMN6eqTp069T2fIyPs7QiZTObsv2Shj6f7cM+Q0JXR/itjk/z9Y0bOjIuLsj0cJXGE1N9O4uUSa48cHOTdDvaW19A41NaffKu/fRPZX614vb969Zud/fs9cCTkMpn920NGj3J9aWyAzdoAbG6Azdx//0TswoMT7xJJRDrRSnwrk8sGyUbLfGSbZUdl1+zesBtnt9XusN2ndlC+Q15hP8L+iP2PJE3mk3XkEfIW+Yh8Rv6uYBQuiuGKaYp5iiRFruILRS/1NsVTLtRw6n3KjTJSO6hCqpSqpI5QF6jPqdvUU+onpVo5SDlU+YFyvNJLuUwZodQps5QmZaHypPKM8qayW/mt8rmKUb2jGquarpqlWqBaropS6VXrVGZVnmqbqlBVpmpUHVQdVZ1Q3VF9p3pB29EUraWH0dPpWbQHvZROoHPorXQBXUbX0I30cfoGfYf+nv4XeBP0B4PBe+AjMAt4gwVgJUgAerAB5IMCUA1aQCc4C26Ar8F34An41cHOQe3Qz0FwGOow2mGsw3SHuQ4LHBZl0l6mOTlr6BpzR7sG3ob9qRZr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t4Zu6WJPWjGADKIe4xZIiMm2rRj19k7qTtU7Xn4ulfyAUe+ucaTalCoA4bDYYTmJobVScdy839JpFsE2XZON0Odi58JIDPA/b+842BbZPLMU78SytGYeOP76RNI8AbreSBwCQAywKpNxRzUN8+9jNv4NlkaFzgkW8LgDUr+2MdLVLy0W2OydsAEJ0NpuaOZ+vH7kRmdo6/jd2OxrmL3he5GC9phDZICh2H/XvgPUafMJywmzWG5rqStBOX0TYCT0d1jiq43IsvkOQOoKpADuBu2mjST4fWEbbqAsbOdBbpNgig8zJnF5y60g2Ry+lQZxOLjBV7jPgY+Vx7TltiTGZrdsuLS5QQ8dnYCvaXJOsCD+Exe04Gvp669l95/YOjpGGji4YJDflHXHUKtMUWxcCyw4Hw7XHdY9PAnYlzccaOVOVOmS1iyPccEvp5jB/wFCl/CdCmVuZHN0cmVhbQplbmRvYmoKMzUgMCBvYmoKODE0NwplbmRvYmoKMzYgMCBvYmoKKG1hY09TIFZlcnNpb24gMTAuMTQuNiBcKEJ1aWxkIDE4Rzk1XCkgUXVhcnR6IFBERkNvbnRleHQpCmVuZG9iagozNyAwIG9iagooRDoyMDE5MDkxODA0MjgzN1owMCcwMCcpCmVuZG9iagoxIDAgb2JqCjw8IC9Qcm9kdWNlciAzNiAwIFIgL0NyZWF0aW9uRGF0ZSAzNyAwIFIgL01vZERhdGUgMzcgMCBSID4+CmVuZG9iagp4cmVmCjAgMzgKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDMwNTkwIDAwMDAwIG4gCjAwMDAwMDkxODcgMDAwMDAgbiAKMDAwMDAxNzc5NiAwMDAwMCBuIAowMDAwMDAwMDIyIDAwMDAwIG4gCjAwMDAwMDkxNjcgMDAwMDAgbiAKMDAwMDAwOTI5NCAwMDAwMCBuIAowMDAwMDE1MDU4IDAwMDAwIG4gCjAwMDAwMjE1MDggMDAwMDAgbiAKMDAwMDAwOTU5MSAwMDAwMCBuIAowMDAwMDExMjg3IDAwMDAwIG4gCjAwMDAwMTc5NDYgMDAwMDAgbiAKMDAwMDAxMTgyOSAwMDAwMCBuIAowMDAwMDExODgzIDAwMDAwIG4gCjAwMDAwMTE5MjggMDAwMDAgbiAKMDAwMDAxMTk3MyAwMDAwMCBuIAowMDAwMDEyMDIzIDAwMDAwIG4gCjAwMDAwMTIwNzEgMDAwMDAgbiAKMDAwMDAxMjEyNCAwMDAwMCBuIAowMDAwMDEyMTc3IDAwMDAwIG4gCjAwMDAwMTIyMjQgMDAwMDAgbiAKMDAwMDAxMjI3NSAwMDAwMCBuIAowMDAwMDE3NzU5IDAwMDAwIG4gCjAwMDAwMTEzMDggMDAwMDAgbiAKMDAwMDAxMTgwOSAwMDAwMCBuIAowMDAwMDEyMzIyIDAwMDAwIG4gCjAwMDAwMTUwMzcgMDAwMDAgbiAKMDAwMDAxNTA5NCAwMDAwMCBuIAowMDAwMDE3NzM4IDAwMDAwIG4gCjAwMDAwMTc4ODIgMDAwMDAgbiAKMDAwMDAxODUxMyAwMDAwMCBuIAowMDAwMDE4NzczIDAwMDAwIG4gCjAwMDAwMjE0ODcgMDAwMDAgbiAKMDAwMDAyMTk1NSAwMDAwMCBuIAowMDAwMDIyMjEzIDAwMDAwIG4gCjAwMDAwMzA0NTMgMDAwMDAgbiAKMDAwMDAzMDQ3NCAwMDAwMCBuIAowMDAwMDMwNTQ4IDAwMDAwIG4gCnRyYWlsZXIKPDwgL1NpemUgMzggL1Jvb3QgMjkgMCBSIC9JbmZvIDEgMCBSIC9JRCBbIDxhYmI4ZmUyNWY0NjlkYjY2OGNhZTZkNzIwZDFhYmFiNj4KPGFiYjhmZTI1ZjQ2OWRiNjY4Y2FlNmQ3MjBkMWFiYWI2PiBdID4+CnN0YXJ0eHJlZgozMDY2NQolJUVPRgo=</preview>
+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abFsKP1kDTeWyiTcWPq0r0PetTQCv7Ix7OxYrDCbZ83PRlnYWPp2jQ2hn9JY+lI2MXjz4xhLLUZQCxvcxvItCd5dvGwsZLl2q7GpWkJLDThZQkDnZdJIeOkMakSkRrBZWMtmaDOxlvYdHo9VgztEyBhqudGIAfrhXCuuGWejaDytlBvPWjaK1oxvndjsjsbTwrjxWCtMCo2nVXOjuF9dtYIoWUTrxhOpuvGsZaPYrxfw42c3HLN2o1lDQ9hPq7HmHsVvI9i6WcvWzcay1vG68UAtm4hBq1bwr60V/dmaSd7xLT/elGSVtexAJT5axJvQfPhyA/LcWgTX6INn+CxM/NXdKxrQDmi7zz1L0E4lquWeoKday6CLr/748OO7h4+ff8Kp+/FIMH315j2lqO99YOxgssXBZA2Bo8maWDLJAtnw34g88S1kTOgjIvtDSnhlok8H70jTYbxZS7Sma3fmAx/X4B3Rx9RYdmoPRVu6I7WcpeelZCgxlVLfP4Yh1I5ytnU81keVpfFSHC3O0wgB2F86y2qzc9x7RNtC02Q/hK2oLnQeQ3OLWHfo9Wmdc+oixgl9jlEWChwXvDinPxxQKkBdRfZ4RVhVy6jVYQgjWhKLcaTnwlQI99uw+TwuhDCIhnDwq7dPYuD8XAjjz49PbLrIT477vduL8fLup0/5uZ7/8n9nJYiJCmVuZHN0cmVhbQplbmRvYmoKNSAwIG9iagoxMTM4NQplbmRvYmoKMiAwIG9iago8PCAvVHlwZSAvUGFnZSAvUGFyZW50IDMgMCBSIC9SZXNvdXJjZXMgNiAwIFIgL0NvbnRlbnRzIDQgMCBSIC9NZWRpYUJveCBbMCAwIDExNTYuNSA4OTVdCj4+CmVuZG9iago2IDAgb2JqCjw8IC9Qcm9jU2V0IFsgL1BERiAvVGV4dCBdIC9Db2xvclNwYWNlIDw8IC9DczEgNyAwIFIgPj4gL0V4dEdTdGF0ZSA8PCAvR3MyCjI2IDAgUiAvR3M5IDI3IDAgUiAvR3M0IDI4IDAgUiAvR3M2IDI5IDAgUiAvR3M1IDMwIDAgUiAvR3MzIDMxIDAgUiAvR3MxMCAzMiAwIFIKL0dzOCAzMyAwIFIgL0dzNyAzNCAwIFIgL0dzMSAzNSAwIFIgPj4gL0ZvbnQgPDwgL1RUMSAxOCAwIFIgL1RjMSA4IDAgUiA+PgovWE9iamVjdCA8PCAvRm0xIDkgMCBSIC9GbTMgMTUgMCBSIC9GbTIgMTIgMCBSIC9GbTQgMTkgMCBSIC9GbTUgMjIgMCBSID4+Ci9TaGFkaW5nIDw8IC9TaDEgMjUgMCBSID4+ID4+CmVuZG9iago5IDAgb2JqCjw8IC9MZW5ndGggMTAgMCBSIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9UeXBlIC9YT2JqZWN0IC9TdWJ0eXBlIC9Gb3JtIC9Gb3JtVHlwZQoxIC9CQm94IFs0OTkgNTExIDUxNSA1MjddIC9SZXNvdXJjZXMgMTEgMCBSIC9Hcm91cCA8PCAvUyAvVHJhbnNwYXJlbmN5IC9DUwozNiAwIFIgL0kgdHJ1ZSAvSyBmYWxzZSA+PiA+PgpzdHJlYW0KeAErVAhUKFQwsbRUMDU0VDA0A6GiVIVwhTwF/YDUouTUgpLSxByFokygKqCUARACKZj65FwFfc9cQwWXfIVArkAA3boS2wplbmRzdHJlYW0KZW5kb2JqCjEwIDAgb2JqCjcwCmVuZG9iagoxMSAwIG9iago8PCAvUHJvY1NldCBbIC9QREYgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUkgXSAvWE9iamVjdCA8PCAvSW0xIDM3IDAgUiA+PiA+PgplbmRvYmoKMTUgMCBvYmoKPDwgL0xlbmd0aCAxNiAwIFIgL0ZpbHRlciAvRmxhdGVEZWNvZGUgL1R5cGUgL1hPYmplY3QgL1N1YnR5cGUgL0Zvcm0gL0Zvcm1UeXBlCjEgL0JCb3ggWzUyMSA2MDQgNTM3IDYyMF0gL1Jlc291cmNlcyAxNyAwIFIgL0dyb3VwIDw8IC9TIC9UcmFuc3BhcmVuY3kgL0NTCjM2IDAgUiAvSSB0cnVlIC9LIGZhbHNlID4+ID4+CnN0cmVhbQp4AStUCFQoVDA1MlQwMzBRMDQDoaJUhXCFPAX9gNSi5NSCktLEHIWiTKAqoJQBEAIpmPrkXAV9z1xDBZd8hUCuQADZ0hLFCmVuZHN0cmVhbQplbmRvYmoKMTYgMCBvYmoKNzAKZW5kb2JqCjE3IDAgb2JqCjw8IC9Qcm9jU2V0IFsgL1BERiAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSSBdIC9YT2JqZWN0IDw8IC9JbTEgMzcgMCBSID4+ID4+CmVuZG9iagoxMiAwIG9iago8PCAvTGVuZ3RoIDEzIDAgUiAvRmlsdGVyIC9GbGF0ZURlY29kZSAvVHlwZSAvWE9iamVjdCAvU3VidHlwZSAvRm9ybSAvRm9ybVR5cGUKMSAvQkJveCBbMTA2MyA3NzAgMTA3OSA3ODZdIC9SZXNvdXJjZXMgMTQgMCBSIC9Hcm91cCA8PCAvUyAvVHJhbnNwYXJlbmN5IC9DUwozNiAwIFIgL0kgdHJ1ZSAvSyBmYWxzZSA+PiA+PgpzdHJlYW0KeAErVAhUKFQwNDAzVjA3N1AwNAOholSFcIU8Bf2A1KLk1IKS0sQchaJMkDIzBQMgBCmCaUjOVdD3zDVUcMnnClQIBAD8uhMxCmVuZHN0cmVhbQplbmRvYmoKMTMgMCBvYmoKNzIKZW5kb2JqCjE0IDAgb2JqCjw8IC9Qcm9jU2V0IFsgL1BERiAvSW1hZ2VCIC9JbWFnZUMgL0ltYWdlSSBdIC9YT2JqZWN0IDw8IC9JbTEgMzcgMCBSID4+ID4+CmVuZG9iagoxOSAwIG9iago8PCAvTGVuZ3RoIDIwIDAgUiAvRmlsdGVyIC9GbGF0ZURlY29kZSAvVHlwZSAvWE9iamVjdCAvU3VidHlwZSAvRm9ybSAvRm9ybVR5cGUKMSAvQkJveCBbNTIzIDQzMiA1MzkgNDQ4XSAvUmVzb3VyY2VzIDIxIDAgUiAvR3JvdXAgPDwgL1MgL1RyYW5zcGFyZW5jeSAvQ1MKMzYgMCBSIC9JIHRydWUgL0sgZmFsc2UgPj4gPj4Kc3RyZWFtCngBK1QIVChUMDUyVjAxNlIwNAOholSFcIU8Bf2A1KLk1IKS0sQchaJMoCqglAEQAimY+uRcBX3PXEMFl3yFQK5AANowEscKZW5kc3RyZWFtCmVuZG9iagoyMCAwIG9iago3MAplbmRvYmoKMjEgMCBvYmoKPDwgL1Byb2NTZXQgWyAvUERGIC9JbWFnZUIgL0ltYWdlQyAvSW1hZ2VJIF0gL1hPYmplY3QgPDwgL0ltMSAzNyAwIFIgPj4gPj4KZW5kb2JqCjIyIDAgb2JqCjw8IC9MZW5ndGggMjMgMCBSIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9UeXBlIC9YT2JqZWN0IC9TdWJ0eXBlIC9Gb3JtIC9Gb3JtVHlwZQoxIC9CQm94IFs3MDUgNzY1IDcyMSA3ODFdIC9SZXNvdXJjZXMgMjQgMCBSIC9Hcm91cCA8PCAvUyAvVHJhbnNwYXJlbmN5IC9DUwozNiAwIFIgL0kgdHJ1ZSAvSyBmYWxzZSA+PiA+PgpzdHJlYW0KeAErVAhUKFQwNzBVMDczVTA0A6GiVIVwhTwF/YDUouTUgpLSxByFokygKqCUARACKZj65FwFfc9cQwWXfIVArkAA3cYS3QplbmRzdHJlYW0KZW5kb2JqCjIzIDAgb2JqCjcwCmVuZG9iagoyNCAwIG9iago8PCAvUHJvY1NldCBbIC9QREYgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUkgXSAvWE9iamVjdCA8PCAvSW0xIDM3IDAgUiA+PiA+PgplbmRvYmoKMjUgMCBvYmoKPDwgL0NvbG9yU3BhY2UgMzYgMCBSIC9TaGFkaW5nVHlwZSAyIC9Db29yZHMgWyAxMzkgMTMxIDEzOSAxNDcgXSAvRG9tYWluIFsKMCAxIF0gL0V4dGVuZCBbIHRydWUgdHJ1ZSBdIC9GdW5jdGlvbiAzOSAwIFIgPj4KZW5kb2JqCjM3IDAgb2JqCjw8IC9MZW5ndGggMzggMCBSIC9UeXBlIC9YT2JqZWN0IC9TdWJ0eXBlIC9JbWFnZSAvV2lkdGggMzIgL0hlaWdodCAzMiAvSW50ZXJwb2xhdGUKdHJ1ZSAvQ29sb3JTcGFjZSA0MCAwIFIgL0ludGVudCAvUGVyY2VwdHVhbCAvU01hc2sgNDEgMCBSIC9CaXRzUGVyQ29tcG9uZW50CjggL0ZpbHRlciAvRmxhdGVEZWNvZGUgPj4Kc3RyZWFtCngBlZZ7UNRVFMeP8hgrNSZNEAXEF6BIuCoGrBaSm08iHSvGQpMpM/MJJWkwWGSQ2Tj2h2n5yATExhcvUREVMB6KSCIGgvJSZHmJZjr2h33urm6MKC3MGebec7/fzzn33t9vdx88MOtvgkiwiFHKgKlZtk5FIhLRTcaIPCuSOHxwYeSaCAshCiNWMyXJEgL+OsU8dXG6SNFXUfkrlyY42TflZt0vL6hNPVSTfOB+WX5TXjbJ/LDlxTHRc7rInyryrXX3UJEtti/cLc29V3T0n2vld7P23En54e9TcQSDuzm/kWTp3qV8ZIixBJhXaJFIw/G0m0V5LQU5d9K3/rUvtpO4c2Rrc342YizzOuVzjCNF6CGmu7Rl7r0VF3U7Mfp2fNT/R2L0rfiotsxEjNiBPPFG7EWSvDxLYtZWJ2y/nfpj245Vt3Z2IW6nbanes7Mkdi0QUB0vlaIZM3TN8THNP4e3bl7StqVrgaVlW3hLQmzGTF3H/h0Nj3f6JN/GzaGNG0JaNobc3BTSZnYgxoKxcXNYur8vLwhA0xZ4jPcOcyzfGN16eFf9N/Ma1gU1xwa1rg+6+Z25gRiLfl0QdiCgAII1lmA78fZ96jYsqw4PvLYm8EZkYOPawJbowNavzQ3EjV8qI/aa8MC675cBNJ0Sg8huUho29+pyXU2o7vpnuobPdU1f6FoizY2mCF3DamWsDdUBKf30XYBGPne9vodF3vuza2IWVSzUVi3W1i7VXl+hbQjTNq3SNpsX+jBt/QplxF65UAsKIFjgE0WSx40oWzGrdK6mLFhTuUBT9YGm7iNN/WKNfqmmaZln48dujR8O0Yc46ecP0M/rrw+21Qfb6efb6xc4kmdVv8Sz/hNlwYgdiEKtnAUWOFfAC5s9xfPCLNfSOa5l77hWvO18ZbZd1Ru9a2ZYX5su9TPlRsCTgyUENVPk6jTrypk2l9+0L3trGBBQOVNHgzXeb1g3yQ7wKfS3K5rQs9jbosRH/pwol/3k6mTlrZsm12c8XgUySZYUfLJcnqQsGM+Pl3PePQr9+uUE+ICFz4dG6iiHfD+H392lwFMKx0rxeLno+7DEldekSie1UxWKVmESDJiSrH5dENAJcCzFL8u5sQoCKt9vYKqHA3AvkV97W2YMkewRkjtKzoxWGpQlvnJpopS/KhX+CkIVaKZgSrLSXwmM8D+Aj1P2XA+FAggWOFvgRdj9vGWWu3UOJTwelRgvF3ykVKvsQGiyYpICEgyYKvIrSsCxsGW6Ap7nITkjBVScjaXp/eJ7JMm5Z6aLxSkXtUqJgtFSOEbOewldYb+olUsT1HaoRTBgaiQjQMapYjHCT7nKCReLJOdeYGmet2CThaQ4Wh11lsyhokoYDirfU85qVFdFXqo9OBe81Y5UeKspScgIkCHmbDECBwIqxckKrPEVcxIJ4yOil8ofHyonXSTbTU67q34wsuuzYxSH4y0yBAOmbPCMRt0mMsRYMGIHAgogWOPzadzFLz3ksIMcGaSu5sQw1QnXhJHGVKGXFMoUTEmypMiGtrFgPDpIDjsKKGPnJj5fOhRNtpe0gZLuJMcMGzkxXB1XlpsicC+nCXdDjFRTkiwhQEbbxwYrY5qDgoBya9c8VRwMR7TdUi2lDHi4EarQEudJbyeHq+1DIxgwJckSAmTsmrYxYgfC4QA0Nd9+sMNaDtpKcn9JHaCaoSW8HCntZRBDDDFYTUmyZOwZMZZDtoK9Pa3jeJuVJNrIXhs50E+S+qvNqkIDVS06NAVTkiyl2CvZwX7KghF7R2b7DA8twUcTO93fV1VhO4fsFESVM4RxTJIlBMgQYzF629OeNub2d1hJQm/Z/Zzqal8f2ddX9r/4XzAlyRICZBzLYw/M08imPD8s+Zrmdyz3ted5iespu55RQIIBU5LbrZQAGWKTsasDfl7+ZCH8hwOQ8DOMtxmSXaV11LPxvo8etvdECKOGpDln8i8a9mtACmVuZHN0cmVhbQplbmRvYmoKMzggMCBvYmoKMTQ3OAplbmRvYmoKNDEgMCBvYmoKPDwgL0xlbmd0aCA0MiAwIFIgL1R5cGUgL1hPYmplY3QgL1N1YnR5cGUgL0ltYWdlIC9XaWR0aCAzMiAvSGVpZ2h0IDMyIC9Db2xvclNwYWNlCi9EZXZpY2VHcmF5IC9JbnRlcnBvbGF0ZSB0cnVlIC9CaXRzUGVyQ29tcG9uZW50IDggL0ZpbHRlciAvRmxhdGVEZWNvZGUgPj4Kc3RyZWFtCngBfdMxa8JAFAfwlzgp5ANkdAoiUrq4iCAZ/ACFLMHVTkKgCoKzFOkmiDg6BFz9DHXQjyA4qEuRDmLtpkmeF69NTs27N1we7/cnF7gLgFCmA+CYwkBoM25J36Hr4k4vuRkB/to64g9eiz1e79z+HK448nU1nFli5ENE3r9Hnq5Yi0dfWJU0jxiPyCcGd41y7erZDuWdLAsUA4oRgyKAsqV9qzCf0j5VwJjTjDg3yp7MvTL0ZN4D6Mu8D00ZIzbNgyxwMKHg0wG/AMDuBV11UDe0Im5UyE3IDfxJjh2QQn7hrxoe8BO9wXPo+fEy8YiD5TgfOqvvpFd8cQvXdZKvY3fag/vEoM3+tbi0023gxO9mHBh1q/v/yL7aHcUSdY3jW807v7SOjWh006R0ANsG0FPC+ALk6b8fCmVuZHN0cmVhbQplbmRvYmoKNDIgMCBvYmoKMzExCmVuZG9iagoyNiAwIG9iago8PCAvVHlwZSAvRXh0R1N0YXRlIC9CTSAvTXVsdGlwbHkgPj4KZW5kb2JqCjI3IDAgb2JqCjw8IC9UeXBlIC9FeHRHU3RhdGUgL2NhIDAuMDEgPj4KZW5kb2JqCjI4IDAgb2JqCjw8IC9UeXBlIC9FeHRHU3RhdGUgL0JNIC9Ob3JtYWwgPj4KZW5kb2JqCjI5IDAgb2JqCjw8IC9UeXBlIC9FeHRHU3RhdGUgL0NBIDEgPj4KZW5kb2JqCjMwIDAgb2JqCjw8IC9UeXBlIC9FeHRHU3RhdGUgL2NhIDEgPj4KZW5kb2JqCjMxIDAgb2JqCjw8IC9UeXBlIC9FeHRHU3RhdGUgL2NhIDAuNSA+PgplbmRvYmoKMzIgMCBvYmoKPDwgL1R5cGUgL0V4dEdTdGF0ZSAvQUFQTDpBQSB0cnVlID4+CmVuZG9iagozMyAwIG9iago8PCAvVHlwZSAvRXh0R1N0YXRlIC9BQVBMOkFBIGZhbHNlID4+CmVuZG9iagozNCAwIG9iago8PCAvVHlwZSAvRXh0R1N0YXRlIC9DQSAwLjMzMzMgPj4KZW5kb2JqCjM1IDAgb2JqCjw8IC9UeXBlIC9FeHRHU3RhdGUgL0NBIDAuNSA+PgplbmRvYmoKNDMgMCBvYmoKPDwgL0xlbmd0aCA0NCAwIFIgL04gMyAvQWx0ZXJuYXRlIC9EZXZpY2VSR0IgL0ZpbHRlciAvRmxhdGVEZWNvZGUgPj4Kc3RyZWFtCngBhVVbiBtVGP6TOckKu87T2tUtpEO9dCm7S7YV3aW0mluTtGsastnVFkGzk5NkzOwkzkzSC30qguKLq75JQby9LQiC0nrB1gf7UqlQVnfrIig+tHhBKPRFt/E7k2QmWWqbZc988/3f+W/nnxmigbVCva77FaIlwzZzyajy3NFjysA6+ekhGqRRGiyoVj2Szc4SfkIrrv2/Wz+QTzBXJ+5s71dvuRsscksl8t0Hvla01CXgE0SBs2rdtIkGhsFPH7frAoschk0kCPyiwOU2ho2GF9v4NUeTz8WgOQssq5VCEXgFeHyxhy/34HYOUMBPkhvc1FRF9CJr1kqazh1De7mHuUd5N7ikN1Cz89uBdciqzh3GdQy1v1IsxAWeBF5RC4k54EeArzW1hUwH367b0RzwY0T+nY3qfAR4N3CqZB6cB4Yfv1lppLr4nVOV/LPgt4H/xljMHOnsXVOtGHpJO8HfrvC06G+ISFI0O50Hhh/pgFnLCT1ykEpFHk8AjwO/Xq0dFjnAp/SZ1ZwTvMhn7VQlJvIU/OWXCoeywKPAv3I9KfSIJf1bt7OdHFjI0DMiLmKxOLeceuGHhexKPgUecZlum/nOXrZc0g6mO/pPKmZK8GLvtbruzChyC/jNRk7UjliByYKZSALDZyDLjXnRT4GbtOArEKcaLWJVyaBNUihHSYriWicTlhJppIPhsHIwHHddzYSzz6IqeI2ajs3CmnWU7Z1drUJlsAZdd7QqxUIfUQOeKvQH2IrrU6EY7hrgyv/jp53LjY6fGhthYbYX//vYLNvPptkMKewp9jQ7wOJgZ9g+13cWe7oViXxuIErbz8uIyB3dAmq/iBptKmD9BYoaWa6Hvq4sjzbGPMsZ8wVNvfLG3z290rCz6iom+jp65F49D/wWuB5Yxboe2HB9KIGfAhv4W0dvvFpqnr3TZXFSGk601qfbehZdVQSV6s7OJXRBQ828p+aJXh+XTn/5oBdtlZ17/urQpdMlY3nUY0UX+KuZWxk6M+6x4R/Df4ZXw++FPwz/Lr0tfSp9JZ2XPpcukyJdkC5KX0vfSh9LX7j6u82Qe/YkMhdzJfIW09WtsLfXmFg5Km+XH5bj8g75UXnWVSnyiDwlp+RdsGx3z82bb6W3cvTlKKJ1+3PnWOJZ0VxPOAPf/ZgAzYvYNwPzyFij4/Bpot9i3gw6CW3vk9epiIXYFEtvme5pMfNd38FEMB6MkBLcHZwJTgUPCdx9loO7YJvBmujNDfPhKvoq5TY/Ib4nFKvVT5pauWIre8LhJ5UIPn1cSRvq5LhS0HXFMVmKyS1uNnlxksR3U+wjuplzvoe+bVc8zn6GaP9fePd973HHGkQrFtHI4x43hnflA+8SnXtCbZjNtj/y+b4jskp79zj3vqEo3l8/t1o38R4beIto881W65/3W63ND+B/g+iC/h+gn3xVCmVuZHN0cmVhbQplbmRvYmoKNDQgMCBvYmoKMTA3OQplbmRvYmoKMzYgMCBvYmoKWyAvSUNDQmFzZWQgNDMgMCBSIF0KZW5kb2JqCjQ1IDAgb2JqCjw8IC9MZW5ndGggNDYgMCBSIC9OIDMgL0FsdGVybmF0ZSAvRGV2aWNlUkdCIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AZ2Wd1RT2RaHz703vdASIiAl9Bp6CSDSO0gVBFGJSYBQAoaEJnZEBUYUESlWZFTAAUeHImNFFAuDgmLXCfIQUMbBUURF5d2MawnvrTXz3pr9x1nf2ee319ln733X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5KmUkJSjKTOp0anNaYS0+LTTQiVhirArXTM9J70vwzSjMEO6ymnV7lUTokDRkUwoc1lmu5iO/kz1SIwkmyWDWQuzarLeZ0dln8pRzBHm9OSa5G7LHcnzyft+NWY1d3Vnvnb+hvzBNe5rDq2F1q5c27lOd13BuuH1vuuPbSBtSNnwy0bLjWUb326K3tRRoFGwvmBos+/mxkK5QlHhvS3OWw5sxWwVbO3dZrOtatuXIl7R9WLL4oriTyXckuvfWX1X+d3M9oTtvaX2pft34HYId9zd6brzWJliWV7Z0K7gXa3lzPKi8re7V+y+VmFbcWAPaY9kj7QyqLK9Sq9qR9Wn6qTqgRqPmua96nu37Z3ax9vXv99tf9MBjQPFBz4eFBy8f8j3UGutQW3FYdzhrMPP66Lqur9nf19/RO1I8ZHPR4VHpcfCj3XVO9TXN6g3lDbCjZLGseNxx2/94PVDexOr6VAzo7n4BDghOfHix/gf754MPNl5in2q6Sf9n/a20FqKWqHW3NaJtqQ2aXtMe9/pgNOdHc4dLT+b/3z0jPaZmrPKZ0vPkc4VnJs5n3d+8kLGhfGLiReHOld0Prq05NKdrrCu3suBl69e8blyqdu9+/xVl6tnrjldO32dfb3thv2N1h67npZf7H5p6bXvbb3pcLP9luOtjr4Ffef6Xfsv3va6feWO/50bA4sG+u4uvnv/Xtw96X3e/dEHqQ9eP8x6OP1o/WPs46InCk8qnqo/rf3V+Ndmqb307KDXYM+ziGePhrhDL/+V+a9PwwXPqc8rRrRG6ketR8+M+YzderH0xfDLjJfT44W/Kf6295XRq59+d/u9Z2LJxPBr0euZP0reqL45+tb2bedk6OTTd2nvpqeK3qu+P/aB/aH7Y/THkensT/hPlZ+NP3d8CfzyeCZtZubf94Tz+wplbmRzdHJlYW0KZW5kb2JqCjQ2IDAgb2JqCjI2MTIKZW5kb2JqCjcgMCBvYmoKWyAvSUNDQmFzZWQgNDUgMCBSIF0KZW5kb2JqCjQ3IDAgb2JqCjw8IC9MZW5ndGggNDggMCBSIC9OIDMgL0FsdGVybmF0ZSAvRGV2aWNlUkdCIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AYWWeTyV2R/Hv89dXde+7y4p+5K9xd5YCiFLJFmuLcsVN1IKNSnVjJiWEY2lGRENNUbIGBqVFimh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ljM+99Z/8uK72fe6034zBz/kzZbM/TSf8zHhE2uh/hiqviBIgyqqvQ1sgAjYAyfQjr8Nw2i/62HuWCJ2GruOTRJUCB6EfYTfCcNENeJmYi6xmySNan6K1EfWJieQr1DEKcGUS1Rhahi1iU+JL5Wvl2ZP+5Vfnv8A/wd6DL1PwFegQ9AV1dtL6LFwoPCIyA5RimiumK5Yq3ig+CdUbV8pEal70kdlPGUZsiNyjfLZCqGK5kriSqPKdxi/qxSpHlrCVmOhOgeou2t4afpobdGO0UnSzdL7Sf+ywePl80bKxk4mbNMys54V0itdV2Wu7rCUtdpiXWUzbeeyptKe6hDuWOc0sk7B2cplh2vJ+g53oofZhmTPGq8pH62N23wr/Sb9LTZ/F9AfqB2UFHybqR+aGtYZYRJ5autYtF9MM0s1LmfbdEIwuyvRIak2WXNnYYrc7mOpkmnH9orsy9xPzsg+KJdZgKr72z+q+1uuyamifMXTpQXmhXeKnc+8/uXwWYXSK+cCK2jnqyu3XCBcPFsdVSN9qaWOfVmpob4xtkm6uf6v4KvUaxWtdjce3Yptw+4cuku9l32f0nm0i/Mg6mHX49VPip4Rn7u8ONbT02fUH/jy+Kv2AfKg1pDTcNjr1JGTb8pHa8YujVdPXHhbNlnwLmMq+v366eUzwjMjHy7PHp7znleZH/pY9akMrz/vjsg9BaSd7dYwQljRrPhIJothFxQdGRwfxGQtnBHIIM5gB2uAASHAgmj0xEMkMFHPQPEgFImEYBQL4sbQrP/It5j3//fs0B3o3gpgx4pLjo8Mj2AzbNANPJRhx4qJ284OjddhOMWG6OkwDA0MjPBxvLstrigiAPk6uKo368G7f7T/AahQn8oKZW5kc3RyZWFtCmVuZG9iago0OCAwIG9iagoyNTQxCmVuZG9iago0MCAwIG9iagpbIC9JQ0NCYXNlZCA0NyAwIFIgXQplbmRvYmoKMzkgMCBvYmoKPDwgL0xlbmd0aCA0OSAwIFIgL0Z1bmN0aW9uVHlwZSAwIC9CaXRzUGVyU2FtcGxlIDggL1NpemUgWyAxMzY1IF0gL0RvbWFpbgpbIDAgMSBdIC9SYW5nZSBbIDAgMSAwIDEgMCAxIF0gL0ZpbHRlciAvRmxhdGVEZWNvZGUgPj4Kc3RyZWFtCngBpcFnQoEBAADQ+58p2WQLhWjYUcjefB3Bj/deENxxA1dwAWdwAkdwAHuwA1uwAWuwAkuwAH9gbmZgCn7BD5iAMfgGIzAEA9AHPdAFHfAFPsGHeQdt0AJvoAkaoA5ewQuogSqogGdQBiVQBAWTBzmQBRnwBNIgBZIgAeIgBqIgAsLgEYTAwz3/Z2LP5wplbmRzdHJlYW0KZW5kb2JqCjQ5IDAgb2JqCjE0MQplbmRvYmoKMyAwIG9iago8PCAvVHlwZSAvUGFnZXMgL01lZGlhQm94IFswIDAgMTE1Ni41IDg5NV0gL0NvdW50IDEgL0tpZHMgWyAyIDAgUiBdID4+CmVuZG9iago1MCAwIG9iago8PCAvVHlwZSAvQ2F0YWxvZyAvUGFnZXMgMyAwIFIgL1ZlcnNpb24gLzEuNCA+PgplbmRvYmoKMTggMCBvYmoKPDwgL1R5cGUgL0ZvbnQgL1N1YnR5cGUgL1RydWVUeXBlIC9CYXNlRm9udCAvVEVCUkFHK0F2ZW5pck5leHQtUmVndWxhciAvRm9udERlc2NyaXB0b3IKNTEgMCBSIC9FbmNvZGluZyAvTWFjUm9tYW5FbmNvZGluZyAvRmlyc3RDaGFyIDMyIC9MYXN0Q2hhciAyMTMgL1dpZHRocyBbIDI1MAowIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNzAwIDAgMCAwCjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA1NzIgMjk1IDAKMCAwIDAgMCAwIDg4MyA1ODEgNjExIDAgMCAzNjAgNDQ0IDAgMCAwIDc0NiAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMAowIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwCjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAKMCAwIDAgMCAyMjIgXSA+PgplbmRvYmoKNTEgMCBvYmoKPDwgL1R5cGUgL0ZvbnREZXNjcmlwdG9yIC9Gb250TmFtZSAvVEVCUkFHK0F2ZW5pck5leHQtUmVndWxhciAvRmxhZ3MgMzIgL0ZvbnRCQm94ClstMzk0IC00MTEgMTMwOSAxMTkyXSAvSXRhbGljQW5nbGUgMCAvQXNjZW50IDEwMDAgL0Rlc2NlbnQgLTM2NiAvQ2FwSGVpZ2h0CjcwOCAvU3RlbVYgNzIgL1hIZWlnaHQgNDY4IC9TdGVtSCA2NCAvQXZnV2lkdGggNDU1IC9NYXhXaWR0aCAxNTY5IC9Gb250RmlsZTIKNTIgMCBSID4+CmVuZG9iago1MiAwIG9iago8PCAvTGVuZ3RoIDUzIDAgUiAvTGVuZ3RoMSA0NjMyIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AdVXW2wbWRn+z4wvk8SJY3sS2+P4lontXBw7iZM4LSGbi52mrdqmTbe1o5TdbOo2qZpu6SWk2hYV1IUlQixarWhhyxuC8mYQLG6yUvqwWhZptcpDd1FRtcAD1VKQ4KE8gGjKd2bGTrZ9W+0LY30+//ln5vic7/zfN+ML5y4WyEZXSaThucXZs6Qd4neJ2LW5pQshvc8+QKucOHty0eh/ivPnT56+dELvm+NEtmvzhdnjep/+i7Z/Hgnj+l60LfOLF5b1vjiDtuv0y3PGeXM9+sri7LLx+3Qf/dCZ2cWCfr3j72jjZ18+f8HoF9EOnj1XMK5nOfTPfemPBzLfPPj8sH4Nvhlgo9Nk1TK8R1RNJJAYq2QEoteXNq68YB/8F3lFrIvozvSPFnj70eV9NzeXNgtmv+kWulW4UT8wkvjp5htEljDO/97s137JOKk1thJRB60iL5LQwVbJhBDBOoJ9NEa9FCUPrpQ6aB1nTtBhGqGkkVrHDx35zEXrGCZGIfKSk2r021bJjLGsHfihUPbKgieDtEz9NEzfpwnEzifglN0lm/AubiJcFt9boqrJ3C8Y+16+xJ68WqKM/zZWJb7wlc4SsXgolF3IFNmL6AhxJNrDiMR4aLwoRsYP5dR8aCW0svv4Smg8ND97vGiKaC1OFFbyyVCRpnIL+D6cCxeH875KWMjnd2IcEx8Ht+DylTxGOGWMgFZLJR/jInN8b6goRidzB3PFqxlfcTiT94XDoWzxzmSueCfjC+fzuMpSmSlmzFeuz9mKOVvacV7SR5nKFYd9RcqvrPAxp3JquHh1ZcW3gnUY/RLdeSrB6OnEsJEAExgD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/cxzooozXrXt+VzLE7X681ngf2ugiFX+qmNENiPq6vaxlEv7iKr2mfuq8PXRq8LZiTf3XBFe2fMmu7t5jV3WEGevbL6KufJ5t7N79Cu8b4sU5X8K+F+A8nuWuVIZW+/feKao6dTcjrFd7N7f+Luzdjz5NfXo0VPfNvRF/M+YQOFP0kE6RM+jVqexjfxgeEzp/zAtEAkdzo4eGtnVMbJUOLNwbn9h+ULnocLJi6dnz9H/AAQsKDYKZW5kc3RyZWFtCmVuZG9iago1MyAwIG9iagoyNjM0CmVuZG9iago4IDAgb2JqCjw8IC9UeXBlIC9Gb250IC9TdWJ0eXBlIC9UeXBlMSAvQmFzZUZvbnQgL0tZRkhKWStJZGVhbFNhbnNTU20tQm9vayAvRm9udERlc2NyaXB0b3IKNTQgMCBSIC9FbmNvZGluZyAvTWFjUm9tYW5FbmNvZGluZyAvRmlyc3RDaGFyIDMyIC9MYXN0Q2hhciAxNTQgL1dpZHRocyBbIDI0NgowIDAgMCAwIDAgMCAwIDAgMCA0MzIgMCAwIDUwMyAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNDc3IDAgNzM5CjY1NSA3MTcgNzcwIDU3OSA1NTkgMCA4MTcgMzQyIDAgMCA1NjYgOTI4IDgyNyAwIDYwNCAwIDY2NyA1NjAgNjc1IDAgMCAxMDM4CjAgMCAwIDAgMCAwIDAgMCAwIDU1NSA2MjcgNTQ5IDYyNiA1NzQgMzgyIDU0MyA2MjIgMjc4IDAgNTM3IDI3OCA5MjcgNjIyIDYxNwo2MjcgNjI3IDM5MiA0NzYgNDAyIDYyMyA1NDkgNzk5IDAgNTM0IDUyNCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwCjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDYxNyBdID4+CmVuZG9iago1NCAwIG9iago8PCAvVHlwZSAvRm9udERlc2NyaXB0b3IgL0ZvbnROYW1lIC9LWUZISlkrSWRlYWxTYW5zU1NtLUJvb2sgL0ZsYWdzIDMyIC9Gb250QkJveApbLTE2MiAtMjg1IDEzMDAgMTE5N10gL0l0YWxpY0FuZ2xlIDAgL0FzY2VudCA5NjAgL0Rlc2NlbnQgLTI0MCAvQ2FwSGVpZ2h0CjcwMyAvU3RlbVYgOTYgL1hIZWlnaHQgNTA1IC9TdGVtSCA4MyAvQXZnV2lkdGggMjc4IC9NYXhXaWR0aCAxNTI0IC9Gb250RmlsZTMKNTUgMCBSID4+CmVuZG9iago1NSAwIG9iago8PCAvTGVuZ3RoIDU2IDAgUiAvU3VidHlwZSAvVHlwZTFDIC9GaWx0ZXIgL0ZsYXRlRGVjb2RlID4+CnN0cmVhbQp4AYWZeVgUx9b/Zxh6eqaLTBI6bWDa7nFBE+MWMe67qCyCKKBGcEFlk32dAQRFRWbrAVRUEJF93xHXYFyv+xZ3Y4BEE3fNck2qSZGbtwaTe+/7e97n+fHPzNPTnKpTderU93yOVGJrI5FKpY7zl81z81g23D0oeHWk7+roBF/fqJGzY2IirD+OElmJ2N9G5GQiY4vs7GRddrbmd9B41Nqf+KC/bSPRXyV/t79q7fsd/fu9sZfIpFLbD4eMGeXcZ2yA1doAbG6A1dz/fiTZjQeXfCxJkKyXtEh+kMqkg6RjpF7SrdJj0us279mMt9luc8TmSxso2ykrtx1he9T2J4Iicola4ihxh3hKvCL+kNNyJ/lw+Qz5AnmCPFv+tbyH/JDkSCdyODmadCEN5E6ygCwhK8ij5EXyJnmXfEn+rFApBimGKj5VTFB4KFYowhRaRYbCqChQnFKcVdxWdCl+ULxW0sqPlOOUM5VzlIuUK5URSp1yg9KkzFHuUBYoS5UNykPKY8qTynvKx8o3lA1FUhpqGDWTmkO5UcupOCqL2k7lU6VUNdVAnaBuUfeoF9S/wPugPxgMPgFTwRzgCRaB1SAO6MAmkAvyQRVoBh3gHLgFvgOPwXPwm52Nncqunx1vN9RujN04u5l28+0W2S1JpzyM87LWUdWm9jY1vAv7k82WsuwyHg08L3/S8MWVvXsNWwt44JXbGtPOVpbs2FGkybtCbF2fZtjAxm/Kb7RotsFYAoKc+ffRB6zHwpQIP03pJKKy+WTpcfbrxqDJRk0KKaSuF1JZNG/svKEaMIDrJb8fwAEGDhgOARqOxjghezQWaV4gAD+Bzr/A9+FYfuQGZvCCCUNHeF6B7/9yqfP1o+tu6B1e9WZH1Jmgrqirjsgs1sdlJi2MXbDG2RFl9ZYRb+SlZ2rvVF/avtcBXpCH3mfQZjkEsIxQMZ7xjYfOHDwKmb2FJmORxuBPzDT4+c1i4aBCBugjQk1B7DZ/y2YORZMIzJmN7NA7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jwF5xnTSfNIklFl77ApQRt0GmAn9Jyzx1SbJsK4dgORVSALcHtpDGQjwx+JW3FFZ3MaB7EbeGBtiSGBzVlpAoil0OwVicHCDb3HjAx8rtxkrrUmMyWzedHlrvQ7aOwBv45SsQF74J66vwXfid99JHz63tngMFLBzwmS/MeOevkaRJN+cCsw4Hw7XHtE+OQWYvhsOtLAnK7UJ61ZGOeGXk0zgfwDNZ/duCmVuZHN0cmVhbQplbmRvYmoKNTYgMCBvYmoKODIyMQplbmRvYmoKMSAwIG9iago8PCAvUHJvZHVjZXIgKG1hY09TIFZlcnNpb24gMTAuMTUuMiBcKEJ1aWxkIDE5QzU3XCkgUXVhcnR6IFBERkNvbnRleHQpIC9DcmVhdGlvbkRhdGUKKEQ6MjAxOTEyMjcxNzUyMTZaMDAnMDAnKSAvTW9kRGF0ZSAoRDoyMDE5MTIyNzE3NTIxNlowMCcwMCcpID4+CmVuZG9iagp4cmVmCjAgNTcKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDM2Njg3IDAwMDAwIG4gCjAwMDAwMTE1MDIgMDAwMDAgbiAKMDAwMDAyMzg1OSAwMDAwMCBuIAowMDAwMDAwMDIyIDAwMDAwIG4gCjAwMDAwMTE0ODEgMDAwMDAgbiAKMDAwMDAxMTYwOSAwMDAwMCBuIAowMDAwMDIwNzk3IDAwMDAwIG4gCjAwMDAwMjc1ODEgMDAwMDAgbiAKMDAwMDAxMTk1NyAwMDAwMCBuIAowMDAwMDEyMjQ0IDAwMDAwIG4gCjAwMDAwMTIyNjMgMDAwMDAgbiAKMDAwMDAxMjc1MiAwMDAwMCBuIAowMDAwMDEzMDQ0IDAwMDAwIG4gCjAwMDAwMTMwNjMgMDAwMDAgbiAKMDAwMDAxMjM1NCAwMDAwMCBuIAowMDAwMDEyNjQyIDAwMDAwIG4gCjAwMDAwMTI2NjEgMDAwMDAgbiAKMDAwMDAyNDAwOSAwMDAwMCBuIAowMDAwMDEzMTU0IDAwMDAwIG4gCjAwMDAwMTM0NDIgMDAwMDAgbiAKMDAwMDAxMzQ2MSAwMDAwMCBuIAowMDAwMDEzNTUyIDAwMDAwIG4gCjAwMDAwMTM4NDAgMDAwMDAgbiAKMDAwMDAxMzg1OSAwMDAwMCBuIAowMDAwMDEzOTUwIDAwMDAwIG4gCjAwMDAwMTYzMjggMDAwMDAgbiAKMDAwMDAxNjM4MSAwMDAwMCBuIAowMDAwMDE2NDI5IDAwMDAwIG4gCjAwMDAwMTY0ODAgMDAwMDAgbiAKMDAwMDAxNjUyNSAwMDAwMCBuIAowMDAwMDE2NTcwIDAwMDAwIG4gCjAwMDAwMTY2MTcgMDAwMDAgbiAKMDAwMDAxNjY3MCAwMDAwMCBuIAowMDAwMDE2NzI0IDAwMDAwIG4gCjAwMDAwMTY3NzQgMDAwMDAgbiAKMDAwMDAxODAyNCAwMDAwMCBuIAowMDAwMDE0MDg5IDAwMDAwIG4gCjAwMDAwMTU3ODYgMDAwMDAgbiAKMDAwMDAyMzUzNSAwMDAwMCBuIAowMDAwMDIzNDk4IDAwMDAwIG4gCjAwMDAwMTU4MDcgMDAwMDAgbiAKMDAwMDAxNjMwOCAwMDAwMCBuIAowMDAwMDE2ODIxIDAwMDAwIG4gCjAwMDAwMTgwMDMgMDAwMDAgbiAKMDAwMDAxODA2MSAwMDAwMCBuIAowMDAwMDIwNzc2IDAwMDAwIG4gCjAwMDAwMjA4MzMgMDAwMDAgbiAKMDAwMDAyMzQ3NyAwMDAwMCBuIAowMDAwMDIzODM5IDAwMDAwIG4gCjAwMDAwMjM5NDUgMDAwMDAgbiAKMDAwMDAyNDU3NiAwMDAwMCBuIAowMDAwMDI0ODM2IDAwMDAwIG4gCjAwMDAwMjc1NjAgMDAwMDAgbiAKMDAwMDAyODA5NCAwMDAwMCBuIAowMDAwMDI4MzUyIDAwMDAwIG4gCjAwMDAwMzY2NjYgMDAwMDAgbiAKdHJhaWxlcgo8PCAvU2l6ZSA1NyAvUm9vdCA1MCAwIFIgL0luZm8gMSAwIFIgL0lEIFsgPDQzZjgzNTg4ZDExMDMwNmVjZmVkOWYzOTc0NDdmNGJjPgo8NDNmODM1ODhkMTEwMzA2ZWNmZWQ5ZjM5NzQ0N2Y0YmM+IF0gPj4Kc3RhcnR4cmVmCjM2ODUxCiUlRU9GCg==</preview>
 </tinderbox>
